@@ -1,5 +1,17 @@
-# Extraliga Value Lab — statická ukázka
+# Extraliga Value Lab — veřejná ukázka
 
-Ukázka rozhraní s archivovanými kurzy a historickými daty. Nejde o živé kurzy ani doporučení sázet. Tato verze neobsahuje server, přístupové klíče ani automatické aktualizace.
+[Otevřít web](https://jakubtrunecek.github.io/extraliga-value-lab-demo/)
 
-Hlavní aplikace a její repozitář zůstávají soukromé. Historické testy a předzápasové záznamy jsou v rozhraní označeny samostatně; samotný modelový odhad nedokládá ziskovost.
+Statická ukázka rozhraní s archivovanými kurzy a historickými daty. Lze prohlížet nabídky, přehled kol, kalkulačku a historický test. Nové kurzy a výsledky se v této veřejné kopii nenačítají. Plná aplikace a její vývojový repozitář jsou soukromé.
+
+## Jak odhad vzniká
+
+Statistický model pracuje s historickou silou útoku a obrany, domácím/venkovním průměrem a časovým vážením. Poissonovo nebo negativně binomické rozdělení dává pravděpodobnost over/under. Férový kurz je 1/p; modelová výhoda p × kurz − 1. Samotná aplikace nepoužívá GPT ani OpenAI API.
+
+Střely a góly jsou za 60 minut; tresty experimentální. Zobrazené kurzy nejsou živé sázkové nabídky. Nejde o prokázaně ziskový systém, automatické sázení ani jisté tipy.
+
+## Stav vývoje k 28. 9. 2026
+
+Soukromá verze má serverové načítání PulseScore při otevřeném webu, limity spotřeby, aktualizaci statistik a archivaci předzápasových odhadů. Devět výzkumných variant na historických datech nedoložilo přínos pro nahrazení původního modelu. Vývoj pokračuje sběrem dalších sezon a nezávislým ověřováním. Historické testy nedokládají skutečné sázkové ROI.
+
+Tento repozitář obsahuje pouze vybrané statické soubory. Neobsahuje server, API klíče ani historii soukromého repozitáře. Aktualizace ukázky jsou manuální.
