@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "source": "Tipsport přes PulseScore",
+  "automaticRefresh": false,
+  "capturedAt": "2026-09-28T09:55:22.648Z",
+  "retrievedAt": "2026-09-28T09:55:22.380Z",
+  "providerUpdatedAt": null,
+  "archiveSha256": "a9f9b9109c694d5e2cc8c37270efa2220e6bb446ad9baf0861e82bbe684b5445",
+  "modelVersion": "1.0.0",
+  "requestsAtCapture": 3,
+  "events": [
+    {
+      "id": "8261570",
+      "home": "Sparta Praha",
+      "away": "Karlovy Vary",
+      "startTime": "2026-09-28T14:00:00.000Z",
+      "rows": [
+        {
+          "line": 58.5,
+          "side": "under",
+          "odds": 2.34,
+          "p": 0.4808657910436239,
+          "low": 0.338559572715678,
+          "high": 0.6236518789999271,
+          "fair": 2.079582325516852,
+          "ev": 0.1252259510420799,
+          "conservativeEV": -0.20777059984531354,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 58.5,
+          "side": "over",
+          "odds": 1.53,
+          "p": 0.5191342089563761,
+          "low": 0.37634812100007287,
+          "high": 0.661440427284322,
+          "fair": 1.9262841530137578,
+          "ev": -0.20572466029674463,
+          "conservativeEV": -0.42418737486988856,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 59.5,
+          "side": "under",
+          "odds": 2.11,
+          "p": 0.5313826996196979,
+          "low": 0.38561929687489616,
+          "high": 0.6710800697486056,
+          "fair": 1.8818828703224326,
+          "ev": 0.1212174961975625,
+          "conservativeEV": -0.18634328359396912,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 59.5,
+          "side": "over",
+          "odds": 1.65,
+          "p": 0.46861730038030214,
+          "low": 0.32891993025139443,
+          "high": 0.6143807031251038,
+          "fair": 2.133937435063663,
+          "ev": -0.22678145437250152,
+          "conservativeEV": -0.4572821150851992,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 60.5,
+          "side": "under",
+          "odds": 1.91,
+          "p": 0.5811079363151834,
+          "low": 0.4341381356040803,
+          "high": 0.7156462286612737,
+          "fair": 1.7208507017491779,
+          "ev": 0.1099161583620003,
+          "conservativeEV": -0.17079616099620665,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 60.5,
+          "side": "over",
+          "odds": 1.8,
+          "p": 0.4188920636848166,
+          "low": 0.2843537713387263,
+          "high": 0.5658618643959197,
+          "fair": 2.3872498113318796,
+          "ev": -0.24599428536733015,
+          "conservativeEV": -0.48816321159029263,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 61.5,
+          "side": "under",
+          "odds": 1.75,
+          "p": 0.6292933139655152,
+          "low": 0.4833839963698909,
+          "high": 0.7568723204482367,
+          "fair": 1.5890841008598404,
+          "ev": 0.10126329943965162,
+          "conservativeEV": -0.15407800635269098,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 61.5,
+          "side": "over",
+          "odds": 1.97,
+          "p": 0.37070668603448476,
+          "low": 0.2431276795517633,
+          "high": 0.5166160036301091,
+          "fair": 2.697550483098046,
+          "ev": -0.2697078285120651,
+          "conservativeEV": -0.5210384712830263,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 62.5,
+          "side": "under",
+          "odds": 1.61,
+          "p": 0.6752732532103929,
+          "low": 0.5326042430514758,
+          "high": 0.7944261166529482,
+          "fair": 1.4808819914690639,
+          "ev": 0.08718993766873262,
+          "conservativeEV": -0.14250716868712388,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 62.5,
+          "side": "over",
+          "odds": 2.18,
+          "p": 0.3247267467896071,
+          "low": 0.20557388334705184,
+          "high": 0.4673957569485242,
+          "fair": 3.079512266502357,
+          "ev": -0.2920956919986565,
+          "conservativeEV": -0.551848934303427,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 63.5,
+          "side": "under",
+          "odds": 1.5,
+          "p": 0.7184896849294237,
+          "low": 0.5810599824905631,
+          "high": 0.8281209188078477,
+          "fair": 1.391808429508948,
+          "ev": 0.07773452739413544,
+          "conservativeEV": -0.12841002626415532,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        },
+        {
+          "line": 63.5,
+          "side": "over",
+          "odds": 2.41,
+          "p": 0.28151031507057633,
+          "low": 0.17187908119215234,
+          "high": 0.4189400175094369,
+          "fair": 3.5522677019820534,
+          "ev": -0.321560140679911,
+          "conservativeEV": -0.5857714143269128,
+          "rulesConfirmed": true,
+          "independentlyValidated": false
+        }
+      ]
+    },
+    {
+      "id": "8261575",
+      "home": "Olomouc",
+      "away": "Vítkovice",
+      "startTime": "2026-09-29T16:00:00.000Z",
+      "rows": []
+    },
+    {
+      "id": "8261574",
+      "home": "Hradec Králové",
+      "away": "Sparta Praha",
+      "startTime": "2026-09-29T16:00:00.000Z",
+      "rows": []
+    },
+    {
+      "id": "8261571",
+      "home": "Třinec",
+      "away": "Kladno",
+      "startTime": "2026-09-29T15:00:00.000Z",
+      "rows": []
+    },
+    {
+      "id": "8261572",
+      "home": "Litvínov",
+      "away": "Liberec",
+      "startTime": "2026-09-29T15:30:00.000Z",
+      "rows": []
+    },
+    {
+      "id": "8261573",
+      "home": "Mladá Boleslav",
+      "away": "Plzeň",
+      "startTime": "2026-09-29T15:30:00.000Z",
+      "rows": []
+    },
+    {
+      "id": "8261576",
+      "home": "Pardubice",
+      "away": "České Budějovice",
+      "startTime": "2026-09-29T16:00:00.000Z",
+      "rows": []
+    }
+  ]
+}

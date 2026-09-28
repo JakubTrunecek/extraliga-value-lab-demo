@@ -1,0 +1,24 @@
+{
+  "frozenAt": "2026-09-27T18:17:13.212Z",
+  "holdoutDate": "2026-09-27",
+  "config": {
+    "version": "1.0.0",
+    "halfLifeDays": 120,
+    "priorGames": 12,
+    "iterations": 35,
+    "minGames": 140,
+    "cutoff": "2026-09-27",
+    "lines": {
+      "goals": 5.5,
+      "shots": 55.5,
+      "penalties": 7.5
+    },
+    "uncertaintyZ": 1.28,
+    "minEdge": 0.05
+  },
+  "modelSha256": "1f1aea416ddd239fa7257131660cdbcba87538526b83c5e31000c7b20874c974",
+  "historySha256": "52adbe5eeee4510578b160a13773b67732fabb17d2a7a8f90ff9f24bd7d24be7",
+  "backtestSha256": "6cf099cda92a53fc2bb48903babb285cf4efee874994d01720243bdbde9d7e40",
+  "historyLastDate": "2026-03-06",
+  "policy": "Freeze source and thresholds before opening any 2026-09-27 fixture/result. Later ingestion excludes all holdout-date results from training. Retrospective blind replay, not proof of pre-match prediction. No historical Tipsport prices invented. No selection of winning thresholds after outcomes."
+}

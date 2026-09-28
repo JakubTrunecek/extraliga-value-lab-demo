@@ -1,0 +1,8021 @@
+{
+  "retrievedAt": "2026-09-27T18:14:39.867Z",
+  "season": "2025/26",
+  "source": "https://www.hokej.cz/tipsport-extraliga/zapasy?matchList-filter-season=2025&matchList-filter-competition=7397&do=matchList-view-all",
+  "scope": {
+    "goals": "regulation60",
+    "shots": "regulation60",
+    "penalties": "hokejcz_full_match_excludes_separate_major_penalties"
+  },
+  "games": [
+    {
+      "id": "2921768",
+      "date": "2025-09-09",
+      "season": 2025,
+      "home": "CEB",
+      "away": "SPA",
+      "homeName": "Č. Budějovice",
+      "awayName": "Sparta",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        28,
+        26
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921768"
+    },
+    {
+      "id": "2921763",
+      "date": "2025-09-10",
+      "season": 2025,
+      "home": "LIB",
+      "away": "PLZ",
+      "homeName": "Liberec",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        24,
+        25
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921763"
+    },
+    {
+      "id": "2921764",
+      "date": "2025-09-10",
+      "season": 2025,
+      "home": "PCE",
+      "away": "MHK",
+      "homeName": "Pardubice",
+      "awayName": "Hr. Králové",
+      "goals": [
+        7,
+        1
+      ],
+      "shots": [
+        29,
+        33
+      ],
+      "penalties": [
+        5,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921764"
+    },
+    {
+      "id": "2921765",
+      "date": "2025-09-10",
+      "season": 2025,
+      "home": "KLA",
+      "away": "MBL",
+      "homeName": "Kladno",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        28,
+        15
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921765"
+    },
+    {
+      "id": "2921766",
+      "date": "2025-09-10",
+      "season": 2025,
+      "home": "TRI",
+      "away": "OLO",
+      "homeName": "Třinec",
+      "awayName": "Olomouc",
+      "goals": [
+        8,
+        2
+      ],
+      "shots": [
+        38,
+        30
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921766"
+    },
+    {
+      "id": "2921767",
+      "date": "2025-09-10",
+      "season": 2025,
+      "home": "KVA",
+      "away": "VIT",
+      "homeName": "Karlovy Vary",
+      "awayName": "Vítkovice",
+      "goals": [
+        4,
+        7
+      ],
+      "shots": [
+        31,
+        24
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921767"
+    },
+    {
+      "id": "2921769",
+      "date": "2025-09-10",
+      "season": 2025,
+      "home": "KOM",
+      "away": "LIT",
+      "homeName": "Kometa",
+      "awayName": "Litvínov",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        28,
+        14
+      ],
+      "penalties": [
+        5,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921769"
+    },
+    {
+      "id": "2921770",
+      "date": "2025-09-12",
+      "season": 2025,
+      "home": "MHK",
+      "away": "CEB",
+      "homeName": "Hr. Králové",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        3,
+        4
+      ],
+      "shots": [
+        18,
+        21
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921770"
+    },
+    {
+      "id": "2921771",
+      "date": "2025-09-12",
+      "season": 2025,
+      "home": "VIT",
+      "away": "KLA",
+      "homeName": "Vítkovice",
+      "awayName": "Kladno",
+      "goals": [
+        0,
+        0
+      ],
+      "shots": [
+        21,
+        39
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921771"
+    },
+    {
+      "id": "2921772",
+      "date": "2025-09-12",
+      "season": 2025,
+      "home": "LIT",
+      "away": "KVA",
+      "homeName": "Litvínov",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        0,
+        4
+      ],
+      "shots": [
+        24,
+        26
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921772"
+    },
+    {
+      "id": "2921773",
+      "date": "2025-09-12",
+      "season": 2025,
+      "home": "OLO",
+      "away": "PLZ",
+      "homeName": "Olomouc",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        26,
+        29
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921773"
+    },
+    {
+      "id": "2921774",
+      "date": "2025-09-12",
+      "season": 2025,
+      "home": "LIB",
+      "away": "PCE",
+      "homeName": "Liberec",
+      "awayName": "Pardubice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        36,
+        29
+      ],
+      "penalties": [
+        6,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2921774"
+    },
+    {
+      "id": "2921775",
+      "date": "2025-09-12",
+      "season": 2025,
+      "home": "SPA",
+      "away": "TRI",
+      "homeName": "Sparta",
+      "awayName": "Třinec",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        39,
+        21
+      ],
+      "penalties": [
+        5,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921775"
+    },
+    {
+      "id": "2921776",
+      "date": "2025-09-12",
+      "season": 2025,
+      "home": "MBL",
+      "away": "KOM",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Kometa",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        30,
+        29
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921776"
+    },
+    {
+      "id": "2921777",
+      "date": "2025-09-14",
+      "season": 2025,
+      "home": "TRI",
+      "away": "LIB",
+      "homeName": "Třinec",
+      "awayName": "Liberec",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        23,
+        26
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921777"
+    },
+    {
+      "id": "2921778",
+      "date": "2025-09-14",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "CEB",
+      "homeName": "Plzeň",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        24,
+        28
+      ],
+      "penalties": [
+        7,
+        10
+      ],
+      "source": "https://www.hokej.cz/zapas/2921778"
+    },
+    {
+      "id": "2921779",
+      "date": "2025-09-14",
+      "season": 2025,
+      "home": "KOM",
+      "away": "SPA",
+      "homeName": "Kometa",
+      "awayName": "Sparta",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        21,
+        27
+      ],
+      "penalties": [
+        7,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2921779"
+    },
+    {
+      "id": "2921780",
+      "date": "2025-09-14",
+      "season": 2025,
+      "home": "PCE",
+      "away": "MBL",
+      "homeName": "Pardubice",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        43,
+        14
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921780"
+    },
+    {
+      "id": "2921781",
+      "date": "2025-09-14",
+      "season": 2025,
+      "home": "KLA",
+      "away": "MHK",
+      "homeName": "Kladno",
+      "awayName": "Hr. Králové",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        31,
+        34
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921781"
+    },
+    {
+      "id": "2921782",
+      "date": "2025-09-14",
+      "season": 2025,
+      "home": "LIT",
+      "away": "VIT",
+      "homeName": "Litvínov",
+      "awayName": "Vítkovice",
+      "goals": [
+        0,
+        3
+      ],
+      "shots": [
+        32,
+        22
+      ],
+      "penalties": [
+        4,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921782"
+    },
+    {
+      "id": "2921783",
+      "date": "2025-09-14",
+      "season": 2025,
+      "home": "KVA",
+      "away": "OLO",
+      "homeName": "Karlovy Vary",
+      "awayName": "Olomouc",
+      "goals": [
+        2,
+        4
+      ],
+      "shots": [
+        23,
+        41
+      ],
+      "penalties": [
+        5,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921783"
+    },
+    {
+      "id": "2921784",
+      "date": "2025-09-16",
+      "season": 2025,
+      "home": "KOM",
+      "away": "VIT",
+      "homeName": "Kometa",
+      "awayName": "Vítkovice",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        17,
+        21
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921784"
+    },
+    {
+      "id": "2921785",
+      "date": "2025-09-16",
+      "season": 2025,
+      "home": "MHK",
+      "away": "PLZ",
+      "homeName": "Hr. Králové",
+      "awayName": "Plzeň",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        31,
+        28
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921785"
+    },
+    {
+      "id": "2921787",
+      "date": "2025-09-16",
+      "season": 2025,
+      "home": "LIB",
+      "away": "LIT",
+      "homeName": "Liberec",
+      "awayName": "Litvínov",
+      "goals": [
+        2,
+        4
+      ],
+      "shots": [
+        60,
+        16
+      ],
+      "penalties": [
+        3,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2921787"
+    },
+    {
+      "id": "2921788",
+      "date": "2025-09-16",
+      "season": 2025,
+      "home": "CEB",
+      "away": "PCE",
+      "homeName": "Č. Budějovice",
+      "awayName": "Pardubice",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        33,
+        31
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921788"
+    },
+    {
+      "id": "2921789",
+      "date": "2025-09-16",
+      "season": 2025,
+      "home": "MBL",
+      "away": "TRI",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Třinec",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        22,
+        22
+      ],
+      "penalties": [
+        1,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921789"
+    },
+    {
+      "id": "2921790",
+      "date": "2025-09-16",
+      "season": 2025,
+      "home": "SPA",
+      "away": "KVA",
+      "homeName": "Sparta",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        38,
+        32
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921790"
+    },
+    {
+      "id": "2921786",
+      "date": "2025-09-17",
+      "season": 2025,
+      "home": "OLO",
+      "away": "KLA",
+      "homeName": "Olomouc",
+      "awayName": "Kladno",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        34,
+        31
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921786"
+    },
+    {
+      "id": "2921791",
+      "date": "2025-09-19",
+      "season": 2025,
+      "home": "TRI",
+      "away": "PLZ",
+      "homeName": "Třinec",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        28,
+        31
+      ],
+      "penalties": [
+        2,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921791"
+    },
+    {
+      "id": "2921792",
+      "date": "2025-09-19",
+      "season": 2025,
+      "home": "VIT",
+      "away": "MBL",
+      "homeName": "Vítkovice",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        2,
+        4
+      ],
+      "shots": [
+        27,
+        23
+      ],
+      "penalties": [
+        1,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921792"
+    },
+    {
+      "id": "2921793",
+      "date": "2025-09-19",
+      "season": 2025,
+      "home": "PCE",
+      "away": "OLO",
+      "homeName": "Pardubice",
+      "awayName": "Olomouc",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        41,
+        20
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921793"
+    },
+    {
+      "id": "2921794",
+      "date": "2025-09-19",
+      "season": 2025,
+      "home": "KLA",
+      "away": "CEB",
+      "homeName": "Kladno",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        34,
+        20
+      ],
+      "penalties": [
+        8,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2921794"
+    },
+    {
+      "id": "2921795",
+      "date": "2025-09-19",
+      "season": 2025,
+      "home": "KVA",
+      "away": "MHK",
+      "homeName": "Karlovy Vary",
+      "awayName": "Hr. Králové",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        25,
+        42
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921795"
+    },
+    {
+      "id": "2921796",
+      "date": "2025-09-19",
+      "season": 2025,
+      "home": "LIT",
+      "away": "SPA",
+      "homeName": "Litvínov",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        5
+      ],
+      "shots": [
+        20,
+        34
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921796"
+    },
+    {
+      "id": "2921797",
+      "date": "2025-09-19",
+      "season": 2025,
+      "home": "KOM",
+      "away": "LIB",
+      "homeName": "Kometa",
+      "awayName": "Liberec",
+      "goals": [
+        4,
+        5
+      ],
+      "shots": [
+        21,
+        36
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921797"
+    },
+    {
+      "id": "2921798",
+      "date": "2025-09-21",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "PCE",
+      "homeName": "Plzeň",
+      "awayName": "Pardubice",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        13,
+        27
+      ],
+      "penalties": [
+        4,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921798"
+    },
+    {
+      "id": "2921799",
+      "date": "2025-09-21",
+      "season": 2025,
+      "home": "VIT",
+      "away": "SPA",
+      "homeName": "Vítkovice",
+      "awayName": "Sparta",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        27,
+        30
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921799"
+    },
+    {
+      "id": "2921801",
+      "date": "2025-09-21",
+      "season": 2025,
+      "home": "MBL",
+      "away": "KVA",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        33,
+        25
+      ],
+      "penalties": [
+        3,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921801"
+    },
+    {
+      "id": "2921802",
+      "date": "2025-09-21",
+      "season": 2025,
+      "home": "MHK",
+      "away": "KOM",
+      "homeName": "Hr. Králové",
+      "awayName": "Kometa",
+      "goals": [
+        3,
+        5
+      ],
+      "shots": [
+        36,
+        30
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921802"
+    },
+    {
+      "id": "2921803",
+      "date": "2025-09-21",
+      "season": 2025,
+      "home": "CEB",
+      "away": "TRI",
+      "homeName": "Č. Budějovice",
+      "awayName": "Třinec",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        43,
+        12
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921803"
+    },
+    {
+      "id": "2921804",
+      "date": "2025-09-21",
+      "season": 2025,
+      "home": "LIB",
+      "away": "KLA",
+      "homeName": "Liberec",
+      "awayName": "Kladno",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        31,
+        31
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921804"
+    },
+    {
+      "id": "2921805",
+      "date": "2025-09-23",
+      "season": 2025,
+      "home": "OLO",
+      "away": "SPA",
+      "homeName": "Olomouc",
+      "awayName": "Sparta",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        23,
+        33
+      ],
+      "penalties": [
+        5,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921805"
+    },
+    {
+      "id": "2921806",
+      "date": "2025-09-23",
+      "season": 2025,
+      "home": "VIT",
+      "away": "LIB",
+      "homeName": "Vítkovice",
+      "awayName": "Liberec",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        23,
+        30
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921806"
+    },
+    {
+      "id": "2921807",
+      "date": "2025-09-23",
+      "season": 2025,
+      "home": "KLA",
+      "away": "PCE",
+      "homeName": "Kladno",
+      "awayName": "Pardubice",
+      "goals": [
+        4,
+        5
+      ],
+      "shots": [
+        39,
+        22
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921807"
+    },
+    {
+      "id": "2921808",
+      "date": "2025-09-23",
+      "season": 2025,
+      "home": "KOM",
+      "away": "PLZ",
+      "homeName": "Kometa",
+      "awayName": "Plzeň",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        29,
+        18
+      ],
+      "penalties": [
+        2,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921808"
+    },
+    {
+      "id": "2921809",
+      "date": "2025-09-23",
+      "season": 2025,
+      "home": "KVA",
+      "away": "CEB",
+      "homeName": "Karlovy Vary",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        39,
+        22
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921809"
+    },
+    {
+      "id": "2921810",
+      "date": "2025-09-23",
+      "season": 2025,
+      "home": "LIT",
+      "away": "MBL",
+      "homeName": "Litvínov",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        29,
+        40
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921810"
+    },
+    {
+      "id": "2921818",
+      "date": "2025-09-25",
+      "season": 2025,
+      "home": "PCE",
+      "away": "TRI",
+      "homeName": "Pardubice",
+      "awayName": "Třinec",
+      "goals": [
+        4,
+        5
+      ],
+      "shots": [
+        27,
+        18
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921818"
+    },
+    {
+      "id": "2921812",
+      "date": "2025-09-26",
+      "season": 2025,
+      "home": "MBL",
+      "away": "SPA",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Sparta",
+      "goals": [
+        2,
+        7
+      ],
+      "shots": [
+        21,
+        33
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921812"
+    },
+    {
+      "id": "2921813",
+      "date": "2025-09-26",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "KLA",
+      "homeName": "Plzeň",
+      "awayName": "Kladno",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        18,
+        28
+      ],
+      "penalties": [
+        7,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921813"
+    },
+    {
+      "id": "2921814",
+      "date": "2025-09-26",
+      "season": 2025,
+      "home": "MHK",
+      "away": "LIT",
+      "homeName": "Hr. Králové",
+      "awayName": "Litvínov",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        41,
+        14
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921814"
+    },
+    {
+      "id": "2921815",
+      "date": "2025-09-26",
+      "season": 2025,
+      "home": "OLO",
+      "away": "VIT",
+      "homeName": "Olomouc",
+      "awayName": "Vítkovice",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        24,
+        25
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921815"
+    },
+    {
+      "id": "2921816",
+      "date": "2025-09-26",
+      "season": 2025,
+      "home": "LIB",
+      "away": "KVA",
+      "homeName": "Liberec",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        23,
+        23
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921816"
+    },
+    {
+      "id": "2921817",
+      "date": "2025-09-26",
+      "season": 2025,
+      "home": "CEB",
+      "away": "KOM",
+      "homeName": "Č. Budějovice",
+      "awayName": "Kometa",
+      "goals": [
+        8,
+        0
+      ],
+      "shots": [
+        35,
+        21
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921817"
+    },
+    {
+      "id": "2921819",
+      "date": "2025-09-28",
+      "season": 2025,
+      "home": "TRI",
+      "away": "KLA",
+      "homeName": "Třinec",
+      "awayName": "Kladno",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        26,
+        41
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921819"
+    },
+    {
+      "id": "2921820",
+      "date": "2025-09-28",
+      "season": 2025,
+      "home": "VIT",
+      "away": "MHK",
+      "homeName": "Vítkovice",
+      "awayName": "Hr. Králové",
+      "goals": [
+        0,
+        4
+      ],
+      "shots": [
+        16,
+        37
+      ],
+      "penalties": [
+        6,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921820"
+    },
+    {
+      "id": "2921821",
+      "date": "2025-09-28",
+      "season": 2025,
+      "home": "SPA",
+      "away": "LIB",
+      "homeName": "Sparta",
+      "awayName": "Liberec",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        45,
+        17
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921821"
+    },
+    {
+      "id": "2921822",
+      "date": "2025-09-28",
+      "season": 2025,
+      "home": "OLO",
+      "away": "MBL",
+      "homeName": "Olomouc",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        25,
+        32
+      ],
+      "penalties": [
+        8,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921822"
+    },
+    {
+      "id": "2921823",
+      "date": "2025-09-28",
+      "season": 2025,
+      "home": "KOM",
+      "away": "PCE",
+      "homeName": "Kometa",
+      "awayName": "Pardubice",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        24,
+        20
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921823"
+    },
+    {
+      "id": "2921824",
+      "date": "2025-09-28",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "KVA",
+      "homeName": "Plzeň",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        28,
+        27
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921824"
+    },
+    {
+      "id": "2921825",
+      "date": "2025-09-28",
+      "season": 2025,
+      "home": "LIT",
+      "away": "CEB",
+      "homeName": "Litvínov",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        3,
+        6
+      ],
+      "shots": [
+        26,
+        34
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921825"
+    },
+    {
+      "id": "2921826",
+      "date": "2025-09-30",
+      "season": 2025,
+      "home": "SPA",
+      "away": "PLZ",
+      "homeName": "Sparta",
+      "awayName": "Plzeň",
+      "goals": [
+        0,
+        2
+      ],
+      "shots": [
+        41,
+        34
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921826"
+    },
+    {
+      "id": "2921827",
+      "date": "2025-09-30",
+      "season": 2025,
+      "home": "MHK",
+      "away": "OLO",
+      "homeName": "Hr. Králové",
+      "awayName": "Olomouc",
+      "goals": [
+        0,
+        1
+      ],
+      "shots": [
+        31,
+        20
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921827"
+    },
+    {
+      "id": "2921828",
+      "date": "2025-09-30",
+      "season": 2025,
+      "home": "PCE",
+      "away": "LIT",
+      "homeName": "Pardubice",
+      "awayName": "Litvínov",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        36,
+        19
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921828"
+    },
+    {
+      "id": "2921829",
+      "date": "2025-09-30",
+      "season": 2025,
+      "home": "KLA",
+      "away": "KVA",
+      "homeName": "Kladno",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        33,
+        29
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921829"
+    },
+    {
+      "id": "2921830",
+      "date": "2025-09-30",
+      "season": 2025,
+      "home": "LIB",
+      "away": "MBL",
+      "homeName": "Liberec",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        0,
+        3
+      ],
+      "shots": [
+        33,
+        23
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921830"
+    },
+    {
+      "id": "2921831",
+      "date": "2025-09-30",
+      "season": 2025,
+      "home": "CEB",
+      "away": "VIT",
+      "homeName": "Č. Budějovice",
+      "awayName": "Vítkovice",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        29,
+        28
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921831"
+    },
+    {
+      "id": "2921832",
+      "date": "2025-09-30",
+      "season": 2025,
+      "home": "TRI",
+      "away": "KOM",
+      "homeName": "Třinec",
+      "awayName": "Kometa",
+      "goals": [
+        1,
+        0
+      ],
+      "shots": [
+        20,
+        23
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921832"
+    },
+    {
+      "id": "2921833",
+      "date": "2025-10-03",
+      "season": 2025,
+      "home": "MBL",
+      "away": "CEB",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        3,
+        4
+      ],
+      "shots": [
+        27,
+        18
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921833"
+    },
+    {
+      "id": "2921834",
+      "date": "2025-10-03",
+      "season": 2025,
+      "home": "KOM",
+      "away": "KLA",
+      "homeName": "Kometa",
+      "awayName": "Kladno",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        30,
+        35
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921834"
+    },
+    {
+      "id": "2921835",
+      "date": "2025-10-03",
+      "season": 2025,
+      "home": "KVA",
+      "away": "PCE",
+      "homeName": "Karlovy Vary",
+      "awayName": "Pardubice",
+      "goals": [
+        0,
+        3
+      ],
+      "shots": [
+        26,
+        23
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921835"
+    },
+    {
+      "id": "2921836",
+      "date": "2025-10-03",
+      "season": 2025,
+      "home": "LIT",
+      "away": "PLZ",
+      "homeName": "Litvínov",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        22,
+        21
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921836"
+    },
+    {
+      "id": "2921837",
+      "date": "2025-10-03",
+      "season": 2025,
+      "home": "OLO",
+      "away": "LIB",
+      "homeName": "Olomouc",
+      "awayName": "Liberec",
+      "goals": [
+        0,
+        1
+      ],
+      "shots": [
+        30,
+        28
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921837"
+    },
+    {
+      "id": "2921838",
+      "date": "2025-10-03",
+      "season": 2025,
+      "home": "SPA",
+      "away": "MHK",
+      "homeName": "Sparta",
+      "awayName": "Hr. Králové",
+      "goals": [
+        0,
+        2
+      ],
+      "shots": [
+        36,
+        29
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921838"
+    },
+    {
+      "id": "2921839",
+      "date": "2025-10-03",
+      "season": 2025,
+      "home": "TRI",
+      "away": "VIT",
+      "homeName": "Třinec",
+      "awayName": "Vítkovice",
+      "goals": [
+        4,
+        4
+      ],
+      "shots": [
+        41,
+        31
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921839"
+    },
+    {
+      "id": "2921840",
+      "date": "2025-10-05",
+      "season": 2025,
+      "home": "CEB",
+      "away": "OLO",
+      "homeName": "Č. Budějovice",
+      "awayName": "Olomouc",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        31,
+        14
+      ],
+      "penalties": [
+        1,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921840"
+    },
+    {
+      "id": "2921842",
+      "date": "2025-10-05",
+      "season": 2025,
+      "home": "MHK",
+      "away": "LIB",
+      "homeName": "Hr. Králové",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        24,
+        31
+      ],
+      "penalties": [
+        5,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921842"
+    },
+    {
+      "id": "2921843",
+      "date": "2025-10-05",
+      "season": 2025,
+      "home": "PCE",
+      "away": "VIT",
+      "homeName": "Pardubice",
+      "awayName": "Vítkovice",
+      "goals": [
+        3,
+        4
+      ],
+      "shots": [
+        49,
+        20
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921843"
+    },
+    {
+      "id": "2921844",
+      "date": "2025-10-05",
+      "season": 2025,
+      "home": "KLA",
+      "away": "SPA",
+      "homeName": "Kladno",
+      "awayName": "Sparta",
+      "goals": [
+        5,
+        4
+      ],
+      "shots": [
+        26,
+        27
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921844"
+    },
+    {
+      "id": "2921845",
+      "date": "2025-10-05",
+      "season": 2025,
+      "home": "TRI",
+      "away": "LIT",
+      "homeName": "Třinec",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        42,
+        21
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921845"
+    },
+    {
+      "id": "2921846",
+      "date": "2025-10-05",
+      "season": 2025,
+      "home": "KOM",
+      "away": "KVA",
+      "homeName": "Kometa",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        26,
+        30
+      ],
+      "penalties": [
+        0,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921846"
+    },
+    {
+      "id": "2921841",
+      "date": "2025-10-08",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "MBL",
+      "homeName": "Plzeň",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        20,
+        25
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921841"
+    },
+    {
+      "id": "2921847",
+      "date": "2025-10-10",
+      "season": 2025,
+      "home": "SPA",
+      "away": "PCE",
+      "homeName": "Sparta",
+      "awayName": "Pardubice",
+      "goals": [
+        3,
+        6
+      ],
+      "shots": [
+        27,
+        32
+      ],
+      "penalties": [
+        7,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921847"
+    },
+    {
+      "id": "2921849",
+      "date": "2025-10-10",
+      "season": 2025,
+      "home": "LIT",
+      "away": "KLA",
+      "homeName": "Litvínov",
+      "awayName": "Kladno",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        24,
+        24
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921849"
+    },
+    {
+      "id": "2921850",
+      "date": "2025-10-10",
+      "season": 2025,
+      "home": "OLO",
+      "away": "KOM",
+      "homeName": "Olomouc",
+      "awayName": "Kometa",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        26,
+        28
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921850"
+    },
+    {
+      "id": "2921851",
+      "date": "2025-10-10",
+      "season": 2025,
+      "home": "MBL",
+      "away": "MHK",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Hr. Králové",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        13,
+        29
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921851"
+    },
+    {
+      "id": "2921852",
+      "date": "2025-10-10",
+      "season": 2025,
+      "home": "CEB",
+      "away": "LIB",
+      "homeName": "Č. Budějovice",
+      "awayName": "Liberec",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        22,
+        42
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921852"
+    },
+    {
+      "id": "2921853",
+      "date": "2025-10-10",
+      "season": 2025,
+      "home": "KVA",
+      "away": "TRI",
+      "homeName": "Karlovy Vary",
+      "awayName": "Třinec",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        31,
+        25
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921853"
+    },
+    {
+      "id": "2921854",
+      "date": "2025-10-12",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "LIB",
+      "homeName": "Plzeň",
+      "awayName": "Liberec",
+      "goals": [
+        0,
+        1
+      ],
+      "shots": [
+        32,
+        18
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921854"
+    },
+    {
+      "id": "2921855",
+      "date": "2025-10-12",
+      "season": 2025,
+      "home": "MHK",
+      "away": "PCE",
+      "homeName": "Hr. Králové",
+      "awayName": "Pardubice",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        25,
+        18
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921855"
+    },
+    {
+      "id": "2921856",
+      "date": "2025-10-12",
+      "season": 2025,
+      "home": "MBL",
+      "away": "KLA",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Kladno",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        25,
+        35
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921856"
+    },
+    {
+      "id": "2921857",
+      "date": "2025-10-12",
+      "season": 2025,
+      "home": "OLO",
+      "away": "TRI",
+      "homeName": "Olomouc",
+      "awayName": "Třinec",
+      "goals": [
+        3,
+        5
+      ],
+      "shots": [
+        31,
+        26
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921857"
+    },
+    {
+      "id": "2921858",
+      "date": "2025-10-12",
+      "season": 2025,
+      "home": "VIT",
+      "away": "KVA",
+      "homeName": "Vítkovice",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        21,
+        26
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921858"
+    },
+    {
+      "id": "2921859",
+      "date": "2025-10-12",
+      "season": 2025,
+      "home": "SPA",
+      "away": "CEB",
+      "homeName": "Sparta",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        40,
+        27
+      ],
+      "penalties": [
+        4,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921859"
+    },
+    {
+      "id": "2921860",
+      "date": "2025-10-12",
+      "season": 2025,
+      "home": "LIT",
+      "away": "KOM",
+      "homeName": "Litvínov",
+      "awayName": "Kometa",
+      "goals": [
+        2,
+        5
+      ],
+      "shots": [
+        16,
+        32
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921860"
+    },
+    {
+      "id": "2921873",
+      "date": "2025-10-15",
+      "season": 2025,
+      "home": "VIT",
+      "away": "LIT",
+      "homeName": "Vítkovice",
+      "awayName": "Litvínov",
+      "goals": [
+        8,
+        2
+      ],
+      "shots": [
+        37,
+        38
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921873"
+    },
+    {
+      "id": "2921864",
+      "date": "2025-10-16",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "OLO",
+      "homeName": "Plzeň",
+      "awayName": "Olomouc",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        28,
+        20
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921864"
+    },
+    {
+      "id": "2921862",
+      "date": "2025-10-17",
+      "season": 2025,
+      "home": "KLA",
+      "away": "VIT",
+      "homeName": "Kladno",
+      "awayName": "Vítkovice",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        35,
+        23
+      ],
+      "penalties": [
+        7,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921862"
+    },
+    {
+      "id": "2921863",
+      "date": "2025-10-17",
+      "season": 2025,
+      "home": "KVA",
+      "away": "LIT",
+      "homeName": "Karlovy Vary",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        33,
+        34
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921863"
+    },
+    {
+      "id": "2921865",
+      "date": "2025-10-17",
+      "season": 2025,
+      "home": "PCE",
+      "away": "LIB",
+      "homeName": "Pardubice",
+      "awayName": "Liberec",
+      "goals": [
+        0,
+        5
+      ],
+      "shots": [
+        31,
+        41
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921865"
+    },
+    {
+      "id": "2921867",
+      "date": "2025-10-17",
+      "season": 2025,
+      "home": "KOM",
+      "away": "MBL",
+      "homeName": "Kometa",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        29,
+        26
+      ],
+      "penalties": [
+        4,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921867"
+    },
+    {
+      "id": "2921868",
+      "date": "2025-10-19",
+      "season": 2025,
+      "home": "LIB",
+      "away": "TRI",
+      "homeName": "Liberec",
+      "awayName": "Třinec",
+      "goals": [
+        0,
+        1
+      ],
+      "shots": [
+        42,
+        20
+      ],
+      "penalties": [
+        5,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921868"
+    },
+    {
+      "id": "2921869",
+      "date": "2025-10-19",
+      "season": 2025,
+      "home": "CEB",
+      "away": "PLZ",
+      "homeName": "Č. Budějovice",
+      "awayName": "Plzeň",
+      "goals": [
+        0,
+        3
+      ],
+      "shots": [
+        20,
+        27
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921869"
+    },
+    {
+      "id": "2921870",
+      "date": "2025-10-19",
+      "season": 2025,
+      "home": "SPA",
+      "away": "KOM",
+      "homeName": "Sparta",
+      "awayName": "Kometa",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        40,
+        23
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921870"
+    },
+    {
+      "id": "2921871",
+      "date": "2025-10-19",
+      "season": 2025,
+      "home": "MBL",
+      "away": "PCE",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Pardubice",
+      "goals": [
+        0,
+        2
+      ],
+      "shots": [
+        18,
+        27
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921871"
+    },
+    {
+      "id": "2921872",
+      "date": "2025-10-19",
+      "season": 2025,
+      "home": "MHK",
+      "away": "KLA",
+      "homeName": "Hr. Králové",
+      "awayName": "Kladno",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        36,
+        25
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921872"
+    },
+    {
+      "id": "2921874",
+      "date": "2025-10-19",
+      "season": 2025,
+      "home": "OLO",
+      "away": "KVA",
+      "homeName": "Olomouc",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        5,
+        3
+      ],
+      "shots": [
+        32,
+        27
+      ],
+      "penalties": [
+        4,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921874"
+    },
+    {
+      "id": "2921800",
+      "date": "2025-10-21",
+      "season": 2025,
+      "home": "OLO",
+      "away": "LIT",
+      "homeName": "Olomouc",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        40,
+        30
+      ],
+      "penalties": [
+        2,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921800"
+    },
+    {
+      "id": "2921861",
+      "date": "2025-10-21",
+      "season": 2025,
+      "home": "CEB",
+      "away": "MHK",
+      "homeName": "Č. Budějovice",
+      "awayName": "Hr. Králové",
+      "goals": [
+        0,
+        3
+      ],
+      "shots": [
+        22,
+        26
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921861"
+    },
+    {
+      "id": "2921866",
+      "date": "2025-10-21",
+      "season": 2025,
+      "home": "SPA",
+      "away": "TRI",
+      "homeName": "Sparta",
+      "awayName": "Třinec",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        23,
+        36
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921866"
+    },
+    {
+      "id": "2922072",
+      "date": "2025-10-22",
+      "season": 2025,
+      "home": "SPA",
+      "away": "VIT",
+      "homeName": "Sparta",
+      "awayName": "Vítkovice",
+      "goals": [
+        4,
+        4
+      ],
+      "shots": [
+        29,
+        40
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922072"
+    },
+    {
+      "id": "2921879",
+      "date": "2025-10-23",
+      "season": 2025,
+      "home": "PCE",
+      "away": "CEB",
+      "homeName": "Pardubice",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        25,
+        25
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921879"
+    },
+    {
+      "id": "2921875",
+      "date": "2025-10-24",
+      "season": 2025,
+      "home": "KOM",
+      "away": "VIT",
+      "homeName": "Kometa",
+      "awayName": "Vítkovice",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        31,
+        28
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921875"
+    },
+    {
+      "id": "2921876",
+      "date": "2025-10-24",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "MHK",
+      "homeName": "Plzeň",
+      "awayName": "Hr. Králové",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        34,
+        20
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921876"
+    },
+    {
+      "id": "2921877",
+      "date": "2025-10-24",
+      "season": 2025,
+      "home": "KLA",
+      "away": "OLO",
+      "homeName": "Kladno",
+      "awayName": "Olomouc",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        29,
+        20
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921877"
+    },
+    {
+      "id": "2921878",
+      "date": "2025-10-24",
+      "season": 2025,
+      "home": "LIT",
+      "away": "LIB",
+      "homeName": "Litvínov",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        28,
+        25
+      ],
+      "penalties": [
+        3,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921878"
+    },
+    {
+      "id": "2921880",
+      "date": "2025-10-24",
+      "season": 2025,
+      "home": "TRI",
+      "away": "MBL",
+      "homeName": "Třinec",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        43,
+        22
+      ],
+      "penalties": [
+        1,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921880"
+    },
+    {
+      "id": "2921881",
+      "date": "2025-10-24",
+      "season": 2025,
+      "home": "KVA",
+      "away": "SPA",
+      "homeName": "Karlovy Vary",
+      "awayName": "Sparta",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        30,
+        26
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921881"
+    },
+    {
+      "id": "2921882",
+      "date": "2025-10-26",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "TRI",
+      "homeName": "Plzeň",
+      "awayName": "Třinec",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        24,
+        18
+      ],
+      "penalties": [
+        2,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921882"
+    },
+    {
+      "id": "2921883",
+      "date": "2025-10-26",
+      "season": 2025,
+      "home": "MBL",
+      "away": "VIT",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Vítkovice",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        31,
+        21
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921883"
+    },
+    {
+      "id": "2921884",
+      "date": "2025-10-26",
+      "season": 2025,
+      "home": "OLO",
+      "away": "PCE",
+      "homeName": "Olomouc",
+      "awayName": "Pardubice",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        16,
+        44
+      ],
+      "penalties": [
+        7,
+        9
+      ],
+      "source": "https://www.hokej.cz/zapas/2921884"
+    },
+    {
+      "id": "2921885",
+      "date": "2025-10-26",
+      "season": 2025,
+      "home": "CEB",
+      "away": "KLA",
+      "homeName": "Č. Budějovice",
+      "awayName": "Kladno",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        37,
+        21
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921885"
+    },
+    {
+      "id": "2921886",
+      "date": "2025-10-26",
+      "season": 2025,
+      "home": "MHK",
+      "away": "KVA",
+      "homeName": "Hr. Králové",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        4,
+        5
+      ],
+      "shots": [
+        30,
+        26
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921886"
+    },
+    {
+      "id": "2921887",
+      "date": "2025-10-26",
+      "season": 2025,
+      "home": "SPA",
+      "away": "LIT",
+      "homeName": "Sparta",
+      "awayName": "Litvínov",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        26,
+        33
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921887"
+    },
+    {
+      "id": "2921888",
+      "date": "2025-10-26",
+      "season": 2025,
+      "home": "LIB",
+      "away": "KOM",
+      "homeName": "Liberec",
+      "awayName": "Kometa",
+      "goals": [
+        4,
+        3
+      ],
+      "shots": [
+        37,
+        23
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921888"
+    },
+    {
+      "id": "2921889",
+      "date": "2025-10-28",
+      "season": 2025,
+      "home": "PCE",
+      "away": "PLZ",
+      "homeName": "Pardubice",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        23,
+        19
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921889"
+    },
+    {
+      "id": "2921891",
+      "date": "2025-10-28",
+      "season": 2025,
+      "home": "LIT",
+      "away": "OLO",
+      "homeName": "Litvínov",
+      "awayName": "Olomouc",
+      "goals": [
+        1,
+        0
+      ],
+      "shots": [
+        32,
+        26
+      ],
+      "penalties": [
+        1,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921891"
+    },
+    {
+      "id": "2921892",
+      "date": "2025-10-28",
+      "season": 2025,
+      "home": "KVA",
+      "away": "MBL",
+      "homeName": "Karlovy Vary",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        4,
+        4
+      ],
+      "shots": [
+        35,
+        22
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921892"
+    },
+    {
+      "id": "2921893",
+      "date": "2025-10-28",
+      "season": 2025,
+      "home": "KOM",
+      "away": "MHK",
+      "homeName": "Kometa",
+      "awayName": "Hr. Králové",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        18,
+        22
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921893"
+    },
+    {
+      "id": "2921894",
+      "date": "2025-10-28",
+      "season": 2025,
+      "home": "TRI",
+      "away": "CEB",
+      "homeName": "Třinec",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        6,
+        3
+      ],
+      "shots": [
+        23,
+        25
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921894"
+    },
+    {
+      "id": "2921895",
+      "date": "2025-10-28",
+      "season": 2025,
+      "home": "KLA",
+      "away": "LIB",
+      "homeName": "Kladno",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        21,
+        40
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921895"
+    },
+    {
+      "id": "2921890",
+      "date": "2025-10-29",
+      "season": 2025,
+      "home": "VIT",
+      "away": "SPA",
+      "homeName": "Vítkovice",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        22,
+        35
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921890"
+    },
+    {
+      "id": "2921896",
+      "date": "2025-10-31",
+      "season": 2025,
+      "home": "OLO",
+      "away": "SPA",
+      "homeName": "Olomouc",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        16,
+        43
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921896"
+    },
+    {
+      "id": "2921897",
+      "date": "2025-10-31",
+      "season": 2025,
+      "home": "LIB",
+      "away": "VIT",
+      "homeName": "Liberec",
+      "awayName": "Vítkovice",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        41,
+        22
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921897"
+    },
+    {
+      "id": "2921898",
+      "date": "2025-10-31",
+      "season": 2025,
+      "home": "PCE",
+      "away": "KLA",
+      "homeName": "Pardubice",
+      "awayName": "Kladno",
+      "goals": [
+        8,
+        3
+      ],
+      "shots": [
+        44,
+        28
+      ],
+      "penalties": [
+        6,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2921898"
+    },
+    {
+      "id": "2921899",
+      "date": "2025-10-31",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "KOM",
+      "homeName": "Plzeň",
+      "awayName": "Kometa",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        31,
+        16
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921899"
+    },
+    {
+      "id": "2921900",
+      "date": "2025-10-31",
+      "season": 2025,
+      "home": "CEB",
+      "away": "KVA",
+      "homeName": "Č. Budějovice",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        27,
+        23
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921900"
+    },
+    {
+      "id": "2921901",
+      "date": "2025-10-31",
+      "season": 2025,
+      "home": "MBL",
+      "away": "LIT",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        29,
+        32
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921901"
+    },
+    {
+      "id": "2921902",
+      "date": "2025-10-31",
+      "season": 2025,
+      "home": "MHK",
+      "away": "TRI",
+      "homeName": "Hr. Králové",
+      "awayName": "Třinec",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        30,
+        17
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921902"
+    },
+    {
+      "id": "2921903",
+      "date": "2025-11-02",
+      "season": 2025,
+      "home": "SPA",
+      "away": "MBL",
+      "homeName": "Sparta",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        35,
+        24
+      ],
+      "penalties": [
+        1,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921903"
+    },
+    {
+      "id": "2921904",
+      "date": "2025-11-02",
+      "season": 2025,
+      "home": "KLA",
+      "away": "PLZ",
+      "homeName": "Kladno",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        35,
+        25
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921904"
+    },
+    {
+      "id": "2921905",
+      "date": "2025-11-02",
+      "season": 2025,
+      "home": "LIT",
+      "away": "MHK",
+      "homeName": "Litvínov",
+      "awayName": "Hr. Králové",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        22,
+        33
+      ],
+      "penalties": [
+        8,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921905"
+    },
+    {
+      "id": "2921906",
+      "date": "2025-11-02",
+      "season": 2025,
+      "home": "VIT",
+      "away": "OLO",
+      "homeName": "Vítkovice",
+      "awayName": "Olomouc",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        29,
+        28
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921906"
+    },
+    {
+      "id": "2921908",
+      "date": "2025-11-02",
+      "season": 2025,
+      "home": "KOM",
+      "away": "CEB",
+      "homeName": "Kometa",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        43,
+        26
+      ],
+      "penalties": [
+        2,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921908"
+    },
+    {
+      "id": "2921909",
+      "date": "2025-11-02",
+      "season": 2025,
+      "home": "TRI",
+      "away": "PCE",
+      "homeName": "Třinec",
+      "awayName": "Pardubice",
+      "goals": [
+        2,
+        4
+      ],
+      "shots": [
+        25,
+        21
+      ],
+      "penalties": [
+        2,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921909"
+    },
+    {
+      "id": "2922003",
+      "date": "2025-11-09",
+      "season": 2025,
+      "home": "SPA",
+      "away": "LIB",
+      "homeName": "Sparta",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        20,
+        30
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922003"
+    },
+    {
+      "id": "2921922",
+      "date": "2025-11-12",
+      "season": 2025,
+      "home": "VIT",
+      "away": "CEB",
+      "homeName": "Vítkovice",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        26,
+        27
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921922"
+    },
+    {
+      "id": "2921928",
+      "date": "2025-11-12",
+      "season": 2025,
+      "home": "LIB",
+      "away": "OLO",
+      "homeName": "Liberec",
+      "awayName": "Olomouc",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        50,
+        22
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921928"
+    },
+    {
+      "id": "2921910",
+      "date": "2025-11-14",
+      "season": 2025,
+      "home": "KLA",
+      "away": "TRI",
+      "homeName": "Kladno",
+      "awayName": "Třinec",
+      "goals": [
+        5,
+        3
+      ],
+      "shots": [
+        36,
+        21
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921910"
+    },
+    {
+      "id": "2921911",
+      "date": "2025-11-14",
+      "season": 2025,
+      "home": "MHK",
+      "away": "VIT",
+      "homeName": "Hr. Králové",
+      "awayName": "Vítkovice",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        36,
+        13
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921911"
+    },
+    {
+      "id": "2921912",
+      "date": "2025-11-14",
+      "season": 2025,
+      "home": "LIB",
+      "away": "SPA",
+      "homeName": "Liberec",
+      "awayName": "Sparta",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        31,
+        17
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921912"
+    },
+    {
+      "id": "2921913",
+      "date": "2025-11-14",
+      "season": 2025,
+      "home": "MBL",
+      "away": "OLO",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Olomouc",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        32,
+        20
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921913"
+    },
+    {
+      "id": "2921915",
+      "date": "2025-11-14",
+      "season": 2025,
+      "home": "KVA",
+      "away": "PLZ",
+      "homeName": "Karlovy Vary",
+      "awayName": "Plzeň",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        19,
+        39
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921915"
+    },
+    {
+      "id": "2921916",
+      "date": "2025-11-14",
+      "season": 2025,
+      "home": "CEB",
+      "away": "LIT",
+      "homeName": "Č. Budějovice",
+      "awayName": "Litvínov",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        36,
+        26
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921916"
+    },
+    {
+      "id": "2921917",
+      "date": "2025-11-16",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "SPA",
+      "homeName": "Plzeň",
+      "awayName": "Sparta",
+      "goals": [
+        5,
+        6
+      ],
+      "shots": [
+        31,
+        27
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921917"
+    },
+    {
+      "id": "2921919",
+      "date": "2025-11-16",
+      "season": 2025,
+      "home": "LIT",
+      "away": "PCE",
+      "homeName": "Litvínov",
+      "awayName": "Pardubice",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        27,
+        42
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921919"
+    },
+    {
+      "id": "2921920",
+      "date": "2025-11-16",
+      "season": 2025,
+      "home": "KVA",
+      "away": "KLA",
+      "homeName": "Karlovy Vary",
+      "awayName": "Kladno",
+      "goals": [
+        1,
+        5
+      ],
+      "shots": [
+        33,
+        14
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921920"
+    },
+    {
+      "id": "2921921",
+      "date": "2025-11-16",
+      "season": 2025,
+      "home": "MBL",
+      "away": "LIB",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Liberec",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        25,
+        27
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921921"
+    },
+    {
+      "id": "2921923",
+      "date": "2025-11-16",
+      "season": 2025,
+      "home": "KOM",
+      "away": "TRI",
+      "homeName": "Kometa",
+      "awayName": "Třinec",
+      "goals": [
+        4,
+        3
+      ],
+      "shots": [
+        41,
+        32
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921923"
+    },
+    {
+      "id": "2921918",
+      "date": "2025-11-17",
+      "season": 2025,
+      "home": "OLO",
+      "away": "MHK",
+      "homeName": "Olomouc",
+      "awayName": "Hr. Králové",
+      "goals": [
+        1,
+        7
+      ],
+      "shots": [
+        33,
+        37
+      ],
+      "penalties": [
+        4,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921918"
+    },
+    {
+      "id": "2921926",
+      "date": "2025-11-20",
+      "season": 2025,
+      "home": "PCE",
+      "away": "KVA",
+      "homeName": "Pardubice",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        26,
+        22
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921926"
+    },
+    {
+      "id": "2921927",
+      "date": "2025-11-20",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "LIT",
+      "homeName": "Plzeň",
+      "awayName": "Litvínov",
+      "goals": [
+        7,
+        2
+      ],
+      "shots": [
+        32,
+        15
+      ],
+      "penalties": [
+        1,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921927"
+    },
+    {
+      "id": "2921930",
+      "date": "2025-11-20",
+      "season": 2025,
+      "home": "VIT",
+      "away": "TRI",
+      "homeName": "Vítkovice",
+      "awayName": "Třinec",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        25,
+        35
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921930"
+    },
+    {
+      "id": "2921924",
+      "date": "2025-11-21",
+      "season": 2025,
+      "home": "CEB",
+      "away": "MBL",
+      "homeName": "Č. Budějovice",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        27,
+        25
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921924"
+    },
+    {
+      "id": "2921925",
+      "date": "2025-11-21",
+      "season": 2025,
+      "home": "KLA",
+      "away": "KOM",
+      "homeName": "Kladno",
+      "awayName": "Kometa",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        22,
+        42
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921925"
+    },
+    {
+      "id": "2921929",
+      "date": "2025-11-21",
+      "season": 2025,
+      "home": "MHK",
+      "away": "SPA",
+      "homeName": "Hr. Králové",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        31,
+        25
+      ],
+      "penalties": [
+        4,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921929"
+    },
+    {
+      "id": "2921931",
+      "date": "2025-11-23",
+      "season": 2025,
+      "home": "OLO",
+      "away": "CEB",
+      "homeName": "Olomouc",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        25,
+        30
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921931"
+    },
+    {
+      "id": "2921932",
+      "date": "2025-11-23",
+      "season": 2025,
+      "home": "MBL",
+      "away": "PLZ",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Plzeň",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        19,
+        25
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921932"
+    },
+    {
+      "id": "2921933",
+      "date": "2025-11-23",
+      "season": 2025,
+      "home": "LIB",
+      "away": "MHK",
+      "homeName": "Liberec",
+      "awayName": "Hr. Králové",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        35,
+        27
+      ],
+      "penalties": [
+        1,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921933"
+    },
+    {
+      "id": "2921934",
+      "date": "2025-11-23",
+      "season": 2025,
+      "home": "VIT",
+      "away": "PCE",
+      "homeName": "Vítkovice",
+      "awayName": "Pardubice",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        14,
+        36
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921934"
+    },
+    {
+      "id": "2921935",
+      "date": "2025-11-23",
+      "season": 2025,
+      "home": "KLA",
+      "away": "SPA",
+      "homeName": "Kladno",
+      "awayName": "Sparta",
+      "goals": [
+        3,
+        7
+      ],
+      "shots": [
+        22,
+        27
+      ],
+      "penalties": [
+        3,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921935"
+    },
+    {
+      "id": "2921936",
+      "date": "2025-11-23",
+      "season": 2025,
+      "home": "LIT",
+      "away": "TRI",
+      "homeName": "Litvínov",
+      "awayName": "Třinec",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        24,
+        46
+      ],
+      "penalties": [
+        7,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2921936"
+    },
+    {
+      "id": "2921937",
+      "date": "2025-11-23",
+      "season": 2025,
+      "home": "KVA",
+      "away": "KOM",
+      "homeName": "Karlovy Vary",
+      "awayName": "Kometa",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        38,
+        16
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921937"
+    },
+    {
+      "id": "2921938",
+      "date": "2025-11-25",
+      "season": 2025,
+      "home": "PCE",
+      "away": "SPA",
+      "homeName": "Pardubice",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        33,
+        18
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921938"
+    },
+    {
+      "id": "2921940",
+      "date": "2025-11-25",
+      "season": 2025,
+      "home": "KLA",
+      "away": "LIT",
+      "homeName": "Kladno",
+      "awayName": "Litvínov",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        31,
+        34
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921940"
+    },
+    {
+      "id": "2921941",
+      "date": "2025-11-25",
+      "season": 2025,
+      "home": "KOM",
+      "away": "OLO",
+      "homeName": "Kometa",
+      "awayName": "Olomouc",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        34,
+        13
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921941"
+    },
+    {
+      "id": "2921942",
+      "date": "2025-11-25",
+      "season": 2025,
+      "home": "MHK",
+      "away": "MBL",
+      "homeName": "Hr. Králové",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        0,
+        0
+      ],
+      "shots": [
+        22,
+        12
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921942"
+    },
+    {
+      "id": "2921943",
+      "date": "2025-11-25",
+      "season": 2025,
+      "home": "LIB",
+      "away": "CEB",
+      "homeName": "Liberec",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        34,
+        30
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921943"
+    },
+    {
+      "id": "2921944",
+      "date": "2025-11-25",
+      "season": 2025,
+      "home": "KVA",
+      "away": "TRI",
+      "homeName": "Karlovy Vary",
+      "awayName": "Třinec",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        24,
+        26
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921944"
+    },
+    {
+      "id": "2921939",
+      "date": "2025-11-26",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "VIT",
+      "homeName": "Plzeň",
+      "awayName": "Vítkovice",
+      "goals": [
+        7,
+        0
+      ],
+      "shots": [
+        34,
+        17
+      ],
+      "penalties": [
+        3,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921939"
+    },
+    {
+      "id": "2921945",
+      "date": "2025-11-28",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "LIB",
+      "homeName": "Plzeň",
+      "awayName": "Liberec",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        23,
+        19
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921945"
+    },
+    {
+      "id": "2921946",
+      "date": "2025-11-28",
+      "season": 2025,
+      "home": "PCE",
+      "away": "MHK",
+      "homeName": "Pardubice",
+      "awayName": "Hr. Králové",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        33,
+        21
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921946"
+    },
+    {
+      "id": "2921947",
+      "date": "2025-11-28",
+      "season": 2025,
+      "home": "KLA",
+      "away": "MBL",
+      "homeName": "Kladno",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        5,
+        0
+      ],
+      "shots": [
+        22,
+        38
+      ],
+      "penalties": [
+        4,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921947"
+    },
+    {
+      "id": "2921948",
+      "date": "2025-11-28",
+      "season": 2025,
+      "home": "TRI",
+      "away": "OLO",
+      "homeName": "Třinec",
+      "awayName": "Olomouc",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        33,
+        34
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921948"
+    },
+    {
+      "id": "2921949",
+      "date": "2025-11-28",
+      "season": 2025,
+      "home": "KVA",
+      "away": "VIT",
+      "homeName": "Karlovy Vary",
+      "awayName": "Vítkovice",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        29,
+        27
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921949"
+    },
+    {
+      "id": "2921950",
+      "date": "2025-11-28",
+      "season": 2025,
+      "home": "CEB",
+      "away": "SPA",
+      "homeName": "Č. Budějovice",
+      "awayName": "Sparta",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        28,
+        34
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921950"
+    },
+    {
+      "id": "2921951",
+      "date": "2025-11-28",
+      "season": 2025,
+      "home": "LIT",
+      "away": "KOM",
+      "homeName": "Litvínov",
+      "awayName": "Kometa",
+      "goals": [
+        6,
+        2
+      ],
+      "shots": [
+        28,
+        31
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921951"
+    },
+    {
+      "id": "2921952",
+      "date": "2025-11-30",
+      "season": 2025,
+      "home": "MHK",
+      "away": "CEB",
+      "homeName": "Hr. Králové",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        30,
+        17
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921952"
+    },
+    {
+      "id": "2921953",
+      "date": "2025-11-30",
+      "season": 2025,
+      "home": "VIT",
+      "away": "KLA",
+      "homeName": "Vítkovice",
+      "awayName": "Kladno",
+      "goals": [
+        0,
+        3
+      ],
+      "shots": [
+        39,
+        22
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921953"
+    },
+    {
+      "id": "2921954",
+      "date": "2025-11-30",
+      "season": 2025,
+      "home": "LIT",
+      "away": "KVA",
+      "homeName": "Litvínov",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        26,
+        27
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921954"
+    },
+    {
+      "id": "2921955",
+      "date": "2025-11-30",
+      "season": 2025,
+      "home": "OLO",
+      "away": "PLZ",
+      "homeName": "Olomouc",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        0
+      ],
+      "shots": [
+        25,
+        23
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921955"
+    },
+    {
+      "id": "2921956",
+      "date": "2025-11-30",
+      "season": 2025,
+      "home": "LIB",
+      "away": "PCE",
+      "homeName": "Liberec",
+      "awayName": "Pardubice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        20,
+        40
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921956"
+    },
+    {
+      "id": "2921957",
+      "date": "2025-11-30",
+      "season": 2025,
+      "home": "TRI",
+      "away": "SPA",
+      "homeName": "Třinec",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        35,
+        28
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921957"
+    },
+    {
+      "id": "2921958",
+      "date": "2025-11-30",
+      "season": 2025,
+      "home": "MBL",
+      "away": "KOM",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Kometa",
+      "goals": [
+        3,
+        4
+      ],
+      "shots": [
+        35,
+        44
+      ],
+      "penalties": [
+        1,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921958"
+    },
+    {
+      "id": "2921811",
+      "date": "2025-12-03",
+      "season": 2025,
+      "home": "TRI",
+      "away": "MHK",
+      "homeName": "Třinec",
+      "awayName": "Hr. Králové",
+      "goals": [
+        6,
+        1
+      ],
+      "shots": [
+        37,
+        23
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921811"
+    },
+    {
+      "id": "2922088",
+      "date": "2025-12-03",
+      "season": 2025,
+      "home": "VIT",
+      "away": "OLO",
+      "homeName": "Vítkovice",
+      "awayName": "Olomouc",
+      "goals": [
+        1,
+        5
+      ],
+      "shots": [
+        41,
+        23
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922088"
+    },
+    {
+      "id": "2921960",
+      "date": "2025-12-05",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "CEB",
+      "homeName": "Plzeň",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        20,
+        33
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921960"
+    },
+    {
+      "id": "2921961",
+      "date": "2025-12-05",
+      "season": 2025,
+      "home": "KOM",
+      "away": "SPA",
+      "homeName": "Kometa",
+      "awayName": "Sparta",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        29,
+        27
+      ],
+      "penalties": [
+        0,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921961"
+    },
+    {
+      "id": "2921962",
+      "date": "2025-12-05",
+      "season": 2025,
+      "home": "PCE",
+      "away": "MBL",
+      "homeName": "Pardubice",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        33,
+        17
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921962"
+    },
+    {
+      "id": "2921963",
+      "date": "2025-12-05",
+      "season": 2025,
+      "home": "KLA",
+      "away": "MHK",
+      "homeName": "Kladno",
+      "awayName": "Hr. Králové",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        33,
+        23
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921963"
+    },
+    {
+      "id": "2921964",
+      "date": "2025-12-05",
+      "season": 2025,
+      "home": "LIT",
+      "away": "VIT",
+      "homeName": "Litvínov",
+      "awayName": "Vítkovice",
+      "goals": [
+        2,
+        5
+      ],
+      "shots": [
+        23,
+        27
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921964"
+    },
+    {
+      "id": "2921965",
+      "date": "2025-12-05",
+      "season": 2025,
+      "home": "KVA",
+      "away": "OLO",
+      "homeName": "Karlovy Vary",
+      "awayName": "Olomouc",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        26,
+        19
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921965"
+    },
+    {
+      "id": "2921971",
+      "date": "2025-12-05",
+      "season": 2025,
+      "home": "TRI",
+      "away": "LIB",
+      "homeName": "Třinec",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        5
+      ],
+      "shots": [
+        38,
+        34
+      ],
+      "penalties": [
+        2,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921971"
+    },
+    {
+      "id": "2921959",
+      "date": "2025-12-07",
+      "season": 2025,
+      "home": "TRI",
+      "away": "MBL",
+      "homeName": "Třinec",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        24,
+        31
+      ],
+      "penalties": [
+        0,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921959"
+    },
+    {
+      "id": "2921966",
+      "date": "2025-12-07",
+      "season": 2025,
+      "home": "VIT",
+      "away": "KOM",
+      "homeName": "Vítkovice",
+      "awayName": "Kometa",
+      "goals": [
+        4,
+        3
+      ],
+      "shots": [
+        28,
+        28
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921966"
+    },
+    {
+      "id": "2921967",
+      "date": "2025-12-07",
+      "season": 2025,
+      "home": "MHK",
+      "away": "PLZ",
+      "homeName": "Hr. Králové",
+      "awayName": "Plzeň",
+      "goals": [
+        5,
+        4
+      ],
+      "shots": [
+        31,
+        29
+      ],
+      "penalties": [
+        7,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921967"
+    },
+    {
+      "id": "2921968",
+      "date": "2025-12-07",
+      "season": 2025,
+      "home": "OLO",
+      "away": "KLA",
+      "homeName": "Olomouc",
+      "awayName": "Kladno",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        25,
+        28
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921968"
+    },
+    {
+      "id": "2921969",
+      "date": "2025-12-07",
+      "season": 2025,
+      "home": "LIT",
+      "away": "LIB",
+      "homeName": "Litvínov",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        29,
+        31
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921969"
+    },
+    {
+      "id": "2921970",
+      "date": "2025-12-07",
+      "season": 2025,
+      "home": "CEB",
+      "away": "PCE",
+      "homeName": "Č. Budějovice",
+      "awayName": "Pardubice",
+      "goals": [
+        3,
+        6
+      ],
+      "shots": [
+        29,
+        28
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921970"
+    },
+    {
+      "id": "2921972",
+      "date": "2025-12-07",
+      "season": 2025,
+      "home": "SPA",
+      "away": "KVA",
+      "homeName": "Sparta",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        6,
+        1
+      ],
+      "shots": [
+        30,
+        16
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921972"
+    },
+    {
+      "id": "2921848",
+      "date": "2025-12-17",
+      "season": 2025,
+      "home": "VIT",
+      "away": "PLZ",
+      "homeName": "Vítkovice",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        26,
+        32
+      ],
+      "penalties": [
+        0,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921848"
+    },
+    {
+      "id": "2921975",
+      "date": "2025-12-17",
+      "season": 2025,
+      "home": "PCE",
+      "away": "OLO",
+      "homeName": "Pardubice",
+      "awayName": "Olomouc",
+      "goals": [
+        4,
+        4
+      ],
+      "shots": [
+        36,
+        28
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921975"
+    },
+    {
+      "id": "2921993",
+      "date": "2025-12-17",
+      "season": 2025,
+      "home": "TRI",
+      "away": "MHK",
+      "homeName": "Třinec",
+      "awayName": "Hr. Králové",
+      "goals": [
+        2,
+        5
+      ],
+      "shots": [
+        28,
+        30
+      ],
+      "penalties": [
+        6,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921993"
+    },
+    {
+      "id": "2921973",
+      "date": "2025-12-19",
+      "season": 2025,
+      "home": "TRI",
+      "away": "PLZ",
+      "homeName": "Třinec",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        31,
+        24
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921973"
+    },
+    {
+      "id": "2921974",
+      "date": "2025-12-19",
+      "season": 2025,
+      "home": "VIT",
+      "away": "MBL",
+      "homeName": "Vítkovice",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        16,
+        24
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921974"
+    },
+    {
+      "id": "2921976",
+      "date": "2025-12-19",
+      "season": 2025,
+      "home": "KLA",
+      "away": "CEB",
+      "homeName": "Kladno",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        20,
+        37
+      ],
+      "penalties": [
+        6,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921976"
+    },
+    {
+      "id": "2921977",
+      "date": "2025-12-19",
+      "season": 2025,
+      "home": "KVA",
+      "away": "MHK",
+      "homeName": "Karlovy Vary",
+      "awayName": "Hr. Králové",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        32,
+        24
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921977"
+    },
+    {
+      "id": "2921978",
+      "date": "2025-12-19",
+      "season": 2025,
+      "home": "LIT",
+      "away": "SPA",
+      "homeName": "Litvínov",
+      "awayName": "Sparta",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        26,
+        26
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921978"
+    },
+    {
+      "id": "2921979",
+      "date": "2025-12-19",
+      "season": 2025,
+      "home": "KOM",
+      "away": "LIB",
+      "homeName": "Kometa",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        35,
+        34
+      ],
+      "penalties": [
+        4,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921979"
+    },
+    {
+      "id": "2921980",
+      "date": "2025-12-21",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "PCE",
+      "homeName": "Plzeň",
+      "awayName": "Pardubice",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        22,
+        31
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921980"
+    },
+    {
+      "id": "2921981",
+      "date": "2025-12-21",
+      "season": 2025,
+      "home": "SPA",
+      "away": "VIT",
+      "homeName": "Sparta",
+      "awayName": "Vítkovice",
+      "goals": [
+        3,
+        6
+      ],
+      "shots": [
+        43,
+        21
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921981"
+    },
+    {
+      "id": "2921982",
+      "date": "2025-12-21",
+      "season": 2025,
+      "home": "OLO",
+      "away": "LIT",
+      "homeName": "Olomouc",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        35,
+        31
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2921982"
+    },
+    {
+      "id": "2921983",
+      "date": "2025-12-21",
+      "season": 2025,
+      "home": "MBL",
+      "away": "KVA",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        0,
+        3
+      ],
+      "shots": [
+        35,
+        23
+      ],
+      "penalties": [
+        4,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2921983"
+    },
+    {
+      "id": "2921984",
+      "date": "2025-12-21",
+      "season": 2025,
+      "home": "MHK",
+      "away": "KOM",
+      "homeName": "Hr. Králové",
+      "awayName": "Kometa",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        45,
+        22
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921984"
+    },
+    {
+      "id": "2921985",
+      "date": "2025-12-21",
+      "season": 2025,
+      "home": "CEB",
+      "away": "TRI",
+      "homeName": "Č. Budějovice",
+      "awayName": "Třinec",
+      "goals": [
+        1,
+        0
+      ],
+      "shots": [
+        18,
+        25
+      ],
+      "penalties": [
+        4,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921985"
+    },
+    {
+      "id": "2921986",
+      "date": "2025-12-21",
+      "season": 2025,
+      "home": "LIB",
+      "away": "KLA",
+      "homeName": "Liberec",
+      "awayName": "Kladno",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        39,
+        23
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921986"
+    },
+    {
+      "id": "2921987",
+      "date": "2025-12-23",
+      "season": 2025,
+      "home": "SPA",
+      "away": "OLO",
+      "homeName": "Sparta",
+      "awayName": "Olomouc",
+      "goals": [
+        7,
+        2
+      ],
+      "shots": [
+        44,
+        21
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921987"
+    },
+    {
+      "id": "2921988",
+      "date": "2025-12-23",
+      "season": 2025,
+      "home": "VIT",
+      "away": "LIB",
+      "homeName": "Vítkovice",
+      "awayName": "Liberec",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        18,
+        30
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921988"
+    },
+    {
+      "id": "2921989",
+      "date": "2025-12-23",
+      "season": 2025,
+      "home": "KLA",
+      "away": "PCE",
+      "homeName": "Kladno",
+      "awayName": "Pardubice",
+      "goals": [
+        0,
+        1
+      ],
+      "shots": [
+        27,
+        25
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921989"
+    },
+    {
+      "id": "2921990",
+      "date": "2025-12-23",
+      "season": 2025,
+      "home": "KOM",
+      "away": "PLZ",
+      "homeName": "Kometa",
+      "awayName": "Plzeň",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        24,
+        31
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921990"
+    },
+    {
+      "id": "2921991",
+      "date": "2025-12-23",
+      "season": 2025,
+      "home": "KVA",
+      "away": "CEB",
+      "homeName": "Karlovy Vary",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        1,
+        0
+      ],
+      "shots": [
+        25,
+        25
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2921991"
+    },
+    {
+      "id": "2921992",
+      "date": "2025-12-23",
+      "season": 2025,
+      "home": "LIT",
+      "away": "MBL",
+      "homeName": "Litvínov",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        6,
+        1
+      ],
+      "shots": [
+        26,
+        25
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921992"
+    },
+    {
+      "id": "2921995",
+      "date": "2025-12-26",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "KLA",
+      "homeName": "Plzeň",
+      "awayName": "Kladno",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        29,
+        21
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921995"
+    },
+    {
+      "id": "2921996",
+      "date": "2025-12-26",
+      "season": 2025,
+      "home": "MHK",
+      "away": "LIT",
+      "homeName": "Hr. Králové",
+      "awayName": "Litvínov",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        26,
+        23
+      ],
+      "penalties": [
+        6,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2921996"
+    },
+    {
+      "id": "2921997",
+      "date": "2025-12-26",
+      "season": 2025,
+      "home": "OLO",
+      "away": "VIT",
+      "homeName": "Olomouc",
+      "awayName": "Vítkovice",
+      "goals": [
+        0,
+        6
+      ],
+      "shots": [
+        25,
+        33
+      ],
+      "penalties": [
+        3,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2921997"
+    },
+    {
+      "id": "2921998",
+      "date": "2025-12-26",
+      "season": 2025,
+      "home": "LIB",
+      "away": "KVA",
+      "homeName": "Liberec",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        37,
+        32
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921998"
+    },
+    {
+      "id": "2921999",
+      "date": "2025-12-26",
+      "season": 2025,
+      "home": "CEB",
+      "away": "KOM",
+      "homeName": "Č. Budějovice",
+      "awayName": "Kometa",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        24,
+        29
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921999"
+    },
+    {
+      "id": "2922000",
+      "date": "2025-12-26",
+      "season": 2025,
+      "home": "PCE",
+      "away": "TRI",
+      "homeName": "Pardubice",
+      "awayName": "Třinec",
+      "goals": [
+        5,
+        3
+      ],
+      "shots": [
+        52,
+        17
+      ],
+      "penalties": [
+        1,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922000"
+    },
+    {
+      "id": "2922001",
+      "date": "2025-12-28",
+      "season": 2025,
+      "home": "TRI",
+      "away": "KLA",
+      "homeName": "Třinec",
+      "awayName": "Kladno",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        37,
+        29
+      ],
+      "penalties": [
+        3,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2922001"
+    },
+    {
+      "id": "2922002",
+      "date": "2025-12-28",
+      "season": 2025,
+      "home": "VIT",
+      "away": "MHK",
+      "homeName": "Vítkovice",
+      "awayName": "Hr. Králové",
+      "goals": [
+        3,
+        5
+      ],
+      "shots": [
+        28,
+        26
+      ],
+      "penalties": [
+        2,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2922002"
+    },
+    {
+      "id": "2922004",
+      "date": "2025-12-28",
+      "season": 2025,
+      "home": "OLO",
+      "away": "MBL",
+      "homeName": "Olomouc",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        2,
+        5
+      ],
+      "shots": [
+        28,
+        29
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922004"
+    },
+    {
+      "id": "2922005",
+      "date": "2025-12-28",
+      "season": 2025,
+      "home": "KOM",
+      "away": "PCE",
+      "homeName": "Kometa",
+      "awayName": "Pardubice",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        32,
+        27
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922005"
+    },
+    {
+      "id": "2922006",
+      "date": "2025-12-28",
+      "season": 2025,
+      "home": "KVA",
+      "away": "PLZ",
+      "homeName": "Karlovy Vary",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        2
+      ],
+      "shots": [
+        24,
+        21
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922006"
+    },
+    {
+      "id": "2922007",
+      "date": "2025-12-28",
+      "season": 2025,
+      "home": "LIT",
+      "away": "CEB",
+      "homeName": "Litvínov",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        29,
+        34
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922007"
+    },
+    {
+      "id": "2922009",
+      "date": "2025-12-30",
+      "season": 2025,
+      "home": "MHK",
+      "away": "OLO",
+      "homeName": "Hr. Králové",
+      "awayName": "Olomouc",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        30,
+        25
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922009"
+    },
+    {
+      "id": "2922010",
+      "date": "2025-12-30",
+      "season": 2025,
+      "home": "PCE",
+      "away": "LIT",
+      "homeName": "Pardubice",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        42,
+        27
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922010"
+    },
+    {
+      "id": "2922011",
+      "date": "2025-12-30",
+      "season": 2025,
+      "home": "KLA",
+      "away": "KVA",
+      "homeName": "Kladno",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        36,
+        26
+      ],
+      "penalties": [
+        6,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2922011"
+    },
+    {
+      "id": "2922012",
+      "date": "2025-12-30",
+      "season": 2025,
+      "home": "LIB",
+      "away": "MBL",
+      "homeName": "Liberec",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        32,
+        36
+      ],
+      "penalties": [
+        1,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2922012"
+    },
+    {
+      "id": "2922013",
+      "date": "2025-12-30",
+      "season": 2025,
+      "home": "CEB",
+      "away": "VIT",
+      "homeName": "Č. Budějovice",
+      "awayName": "Vítkovice",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        38,
+        19
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922013"
+    },
+    {
+      "id": "2922014",
+      "date": "2025-12-30",
+      "season": 2025,
+      "home": "TRI",
+      "away": "KOM",
+      "homeName": "Třinec",
+      "awayName": "Kometa",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        19,
+        28
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922014"
+    },
+    {
+      "id": "2922015",
+      "date": "2026-01-02",
+      "season": 2025,
+      "home": "MBL",
+      "away": "CEB",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        29,
+        35
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922015"
+    },
+    {
+      "id": "2922016",
+      "date": "2026-01-02",
+      "season": 2025,
+      "home": "KOM",
+      "away": "KLA",
+      "homeName": "Kometa",
+      "awayName": "Kladno",
+      "goals": [
+        2,
+        4
+      ],
+      "shots": [
+        30,
+        28
+      ],
+      "penalties": [
+        1,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922016"
+    },
+    {
+      "id": "2922017",
+      "date": "2026-01-02",
+      "season": 2025,
+      "home": "KVA",
+      "away": "PCE",
+      "homeName": "Karlovy Vary",
+      "awayName": "Pardubice",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        23,
+        31
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922017"
+    },
+    {
+      "id": "2922018",
+      "date": "2026-01-02",
+      "season": 2025,
+      "home": "LIT",
+      "away": "PLZ",
+      "homeName": "Litvínov",
+      "awayName": "Plzeň",
+      "goals": [
+        1,
+        8
+      ],
+      "shots": [
+        23,
+        34
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922018"
+    },
+    {
+      "id": "2922019",
+      "date": "2026-01-02",
+      "season": 2025,
+      "home": "OLO",
+      "away": "LIB",
+      "homeName": "Olomouc",
+      "awayName": "Liberec",
+      "goals": [
+        5,
+        3
+      ],
+      "shots": [
+        40,
+        30
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922019"
+    },
+    {
+      "id": "2922021",
+      "date": "2026-01-02",
+      "season": 2025,
+      "home": "VIT",
+      "away": "TRI",
+      "homeName": "Vítkovice",
+      "awayName": "Třinec",
+      "goals": [
+        0,
+        2
+      ],
+      "shots": [
+        32,
+        26
+      ],
+      "penalties": [
+        0,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922021"
+    },
+    {
+      "id": "2922022",
+      "date": "2026-01-04",
+      "season": 2025,
+      "home": "CEB",
+      "away": "OLO",
+      "homeName": "Č. Budějovice",
+      "awayName": "Olomouc",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        26,
+        30
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922022"
+    },
+    {
+      "id": "2922023",
+      "date": "2026-01-04",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "MBL",
+      "homeName": "Plzeň",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        6,
+        2
+      ],
+      "shots": [
+        38,
+        16
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922023"
+    },
+    {
+      "id": "2922024",
+      "date": "2026-01-04",
+      "season": 2025,
+      "home": "MHK",
+      "away": "LIB",
+      "homeName": "Hr. Králové",
+      "awayName": "Liberec",
+      "goals": [
+        0,
+        2
+      ],
+      "shots": [
+        23,
+        24
+      ],
+      "penalties": [
+        5,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922024"
+    },
+    {
+      "id": "2922025",
+      "date": "2026-01-04",
+      "season": 2025,
+      "home": "PCE",
+      "away": "VIT",
+      "homeName": "Pardubice",
+      "awayName": "Vítkovice",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        38,
+        21
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922025"
+    },
+    {
+      "id": "2922026",
+      "date": "2026-01-04",
+      "season": 2025,
+      "home": "SPA",
+      "away": "KLA",
+      "homeName": "Sparta",
+      "awayName": "Kladno",
+      "goals": [
+        4,
+        4
+      ],
+      "shots": [
+        38,
+        32
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922026"
+    },
+    {
+      "id": "2922027",
+      "date": "2026-01-04",
+      "season": 2025,
+      "home": "TRI",
+      "away": "LIT",
+      "homeName": "Třinec",
+      "awayName": "Litvínov",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        23,
+        24
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922027"
+    },
+    {
+      "id": "2922028",
+      "date": "2026-01-04",
+      "season": 2025,
+      "home": "KOM",
+      "away": "KVA",
+      "homeName": "Kometa",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        38,
+        25
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922028"
+    },
+    {
+      "id": "2922029",
+      "date": "2026-01-06",
+      "season": 2025,
+      "home": "SPA",
+      "away": "PCE",
+      "homeName": "Sparta",
+      "awayName": "Pardubice",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        29,
+        32
+      ],
+      "penalties": [
+        4,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922029"
+    },
+    {
+      "id": "2922030",
+      "date": "2026-01-06",
+      "season": 2025,
+      "home": "VIT",
+      "away": "PLZ",
+      "homeName": "Vítkovice",
+      "awayName": "Plzeň",
+      "goals": [
+        4,
+        6
+      ],
+      "shots": [
+        24,
+        32
+      ],
+      "penalties": [
+        1,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922030"
+    },
+    {
+      "id": "2922031",
+      "date": "2026-01-06",
+      "season": 2025,
+      "home": "LIT",
+      "away": "KLA",
+      "homeName": "Litvínov",
+      "awayName": "Kladno",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        26,
+        31
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922031"
+    },
+    {
+      "id": "2922032",
+      "date": "2026-01-06",
+      "season": 2025,
+      "home": "OLO",
+      "away": "KOM",
+      "homeName": "Olomouc",
+      "awayName": "Kometa",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        23,
+        35
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922032"
+    },
+    {
+      "id": "2922035",
+      "date": "2026-01-07",
+      "season": 2025,
+      "home": "TRI",
+      "away": "KVA",
+      "homeName": "Třinec",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        6,
+        3
+      ],
+      "shots": [
+        30,
+        26
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922035"
+    },
+    {
+      "id": "2922036",
+      "date": "2026-01-09",
+      "season": 2025,
+      "home": "LIB",
+      "away": "PLZ",
+      "homeName": "Liberec",
+      "awayName": "Plzeň",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        26,
+        25
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922036"
+    },
+    {
+      "id": "2922037",
+      "date": "2026-01-09",
+      "season": 2025,
+      "home": "MHK",
+      "away": "PCE",
+      "homeName": "Hr. Králové",
+      "awayName": "Pardubice",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        34,
+        24
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922037"
+    },
+    {
+      "id": "2922038",
+      "date": "2026-01-09",
+      "season": 2025,
+      "home": "MBL",
+      "away": "KLA",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Kladno",
+      "goals": [
+        1,
+        5
+      ],
+      "shots": [
+        21,
+        19
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922038"
+    },
+    {
+      "id": "2922039",
+      "date": "2026-01-09",
+      "season": 2025,
+      "home": "OLO",
+      "away": "TRI",
+      "homeName": "Olomouc",
+      "awayName": "Třinec",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        23,
+        18
+      ],
+      "penalties": [
+        5,
+        9
+      ],
+      "source": "https://www.hokej.cz/zapas/2922039"
+    },
+    {
+      "id": "2922040",
+      "date": "2026-01-09",
+      "season": 2025,
+      "home": "VIT",
+      "away": "KVA",
+      "homeName": "Vítkovice",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        29,
+        25
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922040"
+    },
+    {
+      "id": "2922042",
+      "date": "2026-01-09",
+      "season": 2025,
+      "home": "KOM",
+      "away": "LIT",
+      "homeName": "Kometa",
+      "awayName": "Litvínov",
+      "goals": [
+        7,
+        2
+      ],
+      "shots": [
+        41,
+        22
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922042"
+    },
+    {
+      "id": "2922043",
+      "date": "2026-01-11",
+      "season": 2025,
+      "home": "CEB",
+      "away": "MHK",
+      "homeName": "Č. Budějovice",
+      "awayName": "Hr. Králové",
+      "goals": [
+        5,
+        1
+      ],
+      "shots": [
+        29,
+        18
+      ],
+      "penalties": [
+        5,
+        9
+      ],
+      "source": "https://www.hokej.cz/zapas/2922043"
+    },
+    {
+      "id": "2922044",
+      "date": "2026-01-11",
+      "season": 2025,
+      "home": "KLA",
+      "away": "VIT",
+      "homeName": "Kladno",
+      "awayName": "Vítkovice",
+      "goals": [
+        8,
+        1
+      ],
+      "shots": [
+        43,
+        24
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922044"
+    },
+    {
+      "id": "2922045",
+      "date": "2026-01-11",
+      "season": 2025,
+      "home": "KVA",
+      "away": "LIT",
+      "homeName": "Karlovy Vary",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        43,
+        18
+      ],
+      "penalties": [
+        2,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2922045"
+    },
+    {
+      "id": "2922047",
+      "date": "2026-01-11",
+      "season": 2025,
+      "home": "PCE",
+      "away": "LIB",
+      "homeName": "Pardubice",
+      "awayName": "Liberec",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        22,
+        21
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922047"
+    },
+    {
+      "id": "2922048",
+      "date": "2026-01-11",
+      "season": 2025,
+      "home": "TRI",
+      "away": "SPA",
+      "homeName": "Třinec",
+      "awayName": "Sparta",
+      "goals": [
+        5,
+        3
+      ],
+      "shots": [
+        33,
+        32
+      ],
+      "penalties": [
+        1,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922048"
+    },
+    {
+      "id": "2922049",
+      "date": "2026-01-11",
+      "season": 2025,
+      "home": "KOM",
+      "away": "MBL",
+      "homeName": "Kometa",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        30,
+        18
+      ],
+      "penalties": [
+        3,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922049"
+    },
+    {
+      "id": "2922046",
+      "date": "2026-01-12",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "OLO",
+      "homeName": "Plzeň",
+      "awayName": "Olomouc",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        24,
+        18
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922046"
+    },
+    {
+      "id": "2922033",
+      "date": "2026-01-13",
+      "season": 2025,
+      "home": "MBL",
+      "away": "MHK",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Hr. Králové",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        29,
+        26
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922033"
+    },
+    {
+      "id": "2922034",
+      "date": "2026-01-13",
+      "season": 2025,
+      "home": "LIB",
+      "away": "CEB",
+      "homeName": "Liberec",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        6,
+        3
+      ],
+      "shots": [
+        35,
+        29
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922034"
+    },
+    {
+      "id": "2922069",
+      "date": "2026-01-13",
+      "season": 2025,
+      "home": "SPA",
+      "away": "LIT",
+      "homeName": "Sparta",
+      "awayName": "Litvínov",
+      "goals": [
+        5,
+        1
+      ],
+      "shots": [
+        29,
+        19
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922069"
+    },
+    {
+      "id": "2922052",
+      "date": "2026-01-15",
+      "season": 2025,
+      "home": "SPA",
+      "away": "KOM",
+      "homeName": "Sparta",
+      "awayName": "Kometa",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        44,
+        24
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922052"
+    },
+    {
+      "id": "2922050",
+      "date": "2026-01-16",
+      "season": 2025,
+      "home": "LIB",
+      "away": "TRI",
+      "homeName": "Liberec",
+      "awayName": "Třinec",
+      "goals": [
+        5,
+        3
+      ],
+      "shots": [
+        23,
+        35
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922050"
+    },
+    {
+      "id": "2922051",
+      "date": "2026-01-16",
+      "season": 2025,
+      "home": "CEB",
+      "away": "PLZ",
+      "homeName": "Č. Budějovice",
+      "awayName": "Plzeň",
+      "goals": [
+        5,
+        1
+      ],
+      "shots": [
+        22,
+        29
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922051"
+    },
+    {
+      "id": "2922053",
+      "date": "2026-01-16",
+      "season": 2025,
+      "home": "MBL",
+      "away": "PCE",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Pardubice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        15,
+        32
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922053"
+    },
+    {
+      "id": "2922054",
+      "date": "2026-01-16",
+      "season": 2025,
+      "home": "MHK",
+      "away": "KLA",
+      "homeName": "Hr. Králové",
+      "awayName": "Kladno",
+      "goals": [
+        1,
+        0
+      ],
+      "shots": [
+        31,
+        26
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922054"
+    },
+    {
+      "id": "2922055",
+      "date": "2026-01-16",
+      "season": 2025,
+      "home": "VIT",
+      "away": "LIT",
+      "homeName": "Vítkovice",
+      "awayName": "Litvínov",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        29,
+        28
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922055"
+    },
+    {
+      "id": "2922056",
+      "date": "2026-01-16",
+      "season": 2025,
+      "home": "OLO",
+      "away": "KVA",
+      "homeName": "Olomouc",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        1,
+        5
+      ],
+      "shots": [
+        24,
+        35
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922056"
+    },
+    {
+      "id": "2922057",
+      "date": "2026-01-18",
+      "season": 2025,
+      "home": "VIT",
+      "away": "KOM",
+      "homeName": "Vítkovice",
+      "awayName": "Kometa",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        27,
+        23
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922057"
+    },
+    {
+      "id": "2922058",
+      "date": "2026-01-18",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "MHK",
+      "homeName": "Plzeň",
+      "awayName": "Hr. Králové",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        26,
+        26
+      ],
+      "penalties": [
+        0,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922058"
+    },
+    {
+      "id": "2922059",
+      "date": "2026-01-18",
+      "season": 2025,
+      "home": "KLA",
+      "away": "OLO",
+      "homeName": "Kladno",
+      "awayName": "Olomouc",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        36,
+        17
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922059"
+    },
+    {
+      "id": "2922060",
+      "date": "2026-01-18",
+      "season": 2025,
+      "home": "LIB",
+      "away": "LIT",
+      "homeName": "Liberec",
+      "awayName": "Litvínov",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        28,
+        24
+      ],
+      "penalties": [
+        1,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922060"
+    },
+    {
+      "id": "2922061",
+      "date": "2026-01-18",
+      "season": 2025,
+      "home": "PCE",
+      "away": "CEB",
+      "homeName": "Pardubice",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        5,
+        1
+      ],
+      "shots": [
+        24,
+        29
+      ],
+      "penalties": [
+        4,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922061"
+    },
+    {
+      "id": "2922062",
+      "date": "2026-01-18",
+      "season": 2025,
+      "home": "MBL",
+      "away": "TRI",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Třinec",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        21,
+        26
+      ],
+      "penalties": [
+        1,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922062"
+    },
+    {
+      "id": "2922063",
+      "date": "2026-01-18",
+      "season": 2025,
+      "home": "KVA",
+      "away": "SPA",
+      "homeName": "Karlovy Vary",
+      "awayName": "Sparta",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        31,
+        29
+      ],
+      "penalties": [
+        5,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922063"
+    },
+    {
+      "id": "2922020",
+      "date": "2026-01-20",
+      "season": 2025,
+      "home": "SPA",
+      "away": "MHK",
+      "homeName": "Sparta",
+      "awayName": "Hr. Králové",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        38,
+        30
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922020"
+    },
+    {
+      "id": "2922064",
+      "date": "2026-01-20",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "TRI",
+      "homeName": "Plzeň",
+      "awayName": "Třinec",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        21,
+        23
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922064"
+    },
+    {
+      "id": "2921914",
+      "date": "2026-01-21",
+      "season": 2025,
+      "home": "PCE",
+      "away": "KOM",
+      "homeName": "Pardubice",
+      "awayName": "Kometa",
+      "goals": [
+        7,
+        1
+      ],
+      "shots": [
+        44,
+        19
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2921914"
+    },
+    {
+      "id": "2922065",
+      "date": "2026-01-23",
+      "season": 2025,
+      "home": "MBL",
+      "away": "VIT",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Vítkovice",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        29,
+        16
+      ],
+      "penalties": [
+        5,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922065"
+    },
+    {
+      "id": "2922066",
+      "date": "2026-01-23",
+      "season": 2025,
+      "home": "OLO",
+      "away": "PCE",
+      "homeName": "Olomouc",
+      "awayName": "Pardubice",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        30,
+        33
+      ],
+      "penalties": [
+        3,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2922066"
+    },
+    {
+      "id": "2922067",
+      "date": "2026-01-23",
+      "season": 2025,
+      "home": "CEB",
+      "away": "KLA",
+      "homeName": "Č. Budějovice",
+      "awayName": "Kladno",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        23,
+        35
+      ],
+      "penalties": [
+        3,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2922067"
+    },
+    {
+      "id": "2922068",
+      "date": "2026-01-23",
+      "season": 2025,
+      "home": "MHK",
+      "away": "KVA",
+      "homeName": "Hr. Králové",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        20,
+        21
+      ],
+      "penalties": [
+        6,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922068"
+    },
+    {
+      "id": "2922070",
+      "date": "2026-01-23",
+      "season": 2025,
+      "home": "LIB",
+      "away": "KOM",
+      "homeName": "Liberec",
+      "awayName": "Kometa",
+      "goals": [
+        4,
+        0
+      ],
+      "shots": [
+        30,
+        18
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922070"
+    },
+    {
+      "id": "2922071",
+      "date": "2026-01-25",
+      "season": 2025,
+      "home": "PCE",
+      "away": "PLZ",
+      "homeName": "Pardubice",
+      "awayName": "Plzeň",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        50,
+        21
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922071"
+    },
+    {
+      "id": "2922073",
+      "date": "2026-01-25",
+      "season": 2025,
+      "home": "LIT",
+      "away": "OLO",
+      "homeName": "Litvínov",
+      "awayName": "Olomouc",
+      "goals": [
+        3,
+        5
+      ],
+      "shots": [
+        24,
+        34
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922073"
+    },
+    {
+      "id": "2922074",
+      "date": "2026-01-25",
+      "season": 2025,
+      "home": "KVA",
+      "away": "MBL",
+      "homeName": "Karlovy Vary",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        4,
+        0
+      ],
+      "shots": [
+        43,
+        12
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922074"
+    },
+    {
+      "id": "2922075",
+      "date": "2026-01-25",
+      "season": 2025,
+      "home": "KOM",
+      "away": "MHK",
+      "homeName": "Kometa",
+      "awayName": "Hr. Králové",
+      "goals": [
+        4,
+        3
+      ],
+      "shots": [
+        22,
+        33
+      ],
+      "penalties": [
+        5,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922075"
+    },
+    {
+      "id": "2922076",
+      "date": "2026-01-25",
+      "season": 2025,
+      "home": "TRI",
+      "away": "CEB",
+      "homeName": "Třinec",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        2,
+        1
+      ],
+      "shots": [
+        26,
+        19
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922076"
+    },
+    {
+      "id": "2922077",
+      "date": "2026-01-25",
+      "season": 2025,
+      "home": "KLA",
+      "away": "LIB",
+      "homeName": "Kladno",
+      "awayName": "Liberec",
+      "goals": [
+        0,
+        2
+      ],
+      "shots": [
+        37,
+        38
+      ],
+      "penalties": [
+        3,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922077"
+    },
+    {
+      "id": "2922078",
+      "date": "2026-01-26",
+      "season": 2025,
+      "home": "SPA",
+      "away": "OLO",
+      "homeName": "Sparta",
+      "awayName": "Olomouc",
+      "goals": [
+        6,
+        3
+      ],
+      "shots": [
+        39,
+        29
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922078"
+    },
+    {
+      "id": "2922079",
+      "date": "2026-01-27",
+      "season": 2025,
+      "home": "LIB",
+      "away": "VIT",
+      "homeName": "Liberec",
+      "awayName": "Vítkovice",
+      "goals": [
+        6,
+        2
+      ],
+      "shots": [
+        38,
+        32
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922079"
+    },
+    {
+      "id": "2922080",
+      "date": "2026-01-27",
+      "season": 2025,
+      "home": "PCE",
+      "away": "KLA",
+      "homeName": "Pardubice",
+      "awayName": "Kladno",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        31,
+        22
+      ],
+      "penalties": [
+        1,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922080"
+    },
+    {
+      "id": "2922081",
+      "date": "2026-01-27",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "KOM",
+      "homeName": "Plzeň",
+      "awayName": "Kometa",
+      "goals": [
+        4,
+        0
+      ],
+      "shots": [
+        26,
+        19
+      ],
+      "penalties": [
+        7,
+        10
+      ],
+      "source": "https://www.hokej.cz/zapas/2922081"
+    },
+    {
+      "id": "2922082",
+      "date": "2026-01-27",
+      "season": 2025,
+      "home": "CEB",
+      "away": "KVA",
+      "homeName": "Č. Budějovice",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        3,
+        6
+      ],
+      "shots": [
+        22,
+        33
+      ],
+      "penalties": [
+        4,
+        0
+      ],
+      "source": "https://www.hokej.cz/zapas/2922082"
+    },
+    {
+      "id": "2922083",
+      "date": "2026-01-27",
+      "season": 2025,
+      "home": "MBL",
+      "away": "LIT",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Litvínov",
+      "goals": [
+        1,
+        0
+      ],
+      "shots": [
+        34,
+        20
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922083"
+    },
+    {
+      "id": "2922084",
+      "date": "2026-01-27",
+      "season": 2025,
+      "home": "MHK",
+      "away": "TRI",
+      "homeName": "Hr. Králové",
+      "awayName": "Třinec",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        22,
+        22
+      ],
+      "penalties": [
+        3,
+        0
+      ],
+      "source": "https://www.hokej.cz/zapas/2922084"
+    },
+    {
+      "id": "2922085",
+      "date": "2026-01-29",
+      "season": 2025,
+      "home": "SPA",
+      "away": "MBL",
+      "homeName": "Sparta",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        34,
+        29
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922085"
+    },
+    {
+      "id": "2922086",
+      "date": "2026-01-29",
+      "season": 2025,
+      "home": "KLA",
+      "away": "PLZ",
+      "homeName": "Kladno",
+      "awayName": "Plzeň",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        26,
+        23
+      ],
+      "penalties": [
+        1,
+        0
+      ],
+      "source": "https://www.hokej.cz/zapas/2922086"
+    },
+    {
+      "id": "2922087",
+      "date": "2026-01-29",
+      "season": 2025,
+      "home": "LIT",
+      "away": "MHK",
+      "homeName": "Litvínov",
+      "awayName": "Hr. Králové",
+      "goals": [
+        3,
+        6
+      ],
+      "shots": [
+        33,
+        31
+      ],
+      "penalties": [
+        1,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922087"
+    },
+    {
+      "id": "2922089",
+      "date": "2026-01-29",
+      "season": 2025,
+      "home": "KVA",
+      "away": "LIB",
+      "homeName": "Karlovy Vary",
+      "awayName": "Liberec",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        30,
+        31
+      ],
+      "penalties": [
+        5,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922089"
+    },
+    {
+      "id": "2922091",
+      "date": "2026-01-29",
+      "season": 2025,
+      "home": "TRI",
+      "away": "PCE",
+      "homeName": "Třinec",
+      "awayName": "Pardubice",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        32,
+        31
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922091"
+    },
+    {
+      "id": "2921907",
+      "date": "2026-01-30",
+      "season": 2025,
+      "home": "KVA",
+      "away": "LIB",
+      "homeName": "Karlovy Vary",
+      "awayName": "Liberec",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        31,
+        41
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2921907"
+    },
+    {
+      "id": "2922090",
+      "date": "2026-01-30",
+      "season": 2025,
+      "home": "KOM",
+      "away": "CEB",
+      "homeName": "Kometa",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        21,
+        40
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922090"
+    },
+    {
+      "id": "2922041",
+      "date": "2026-02-01",
+      "season": 2025,
+      "home": "SPA",
+      "away": "CEB",
+      "homeName": "Sparta",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        4,
+        3
+      ],
+      "shots": [
+        34,
+        29
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922041"
+    },
+    {
+      "id": "2922008",
+      "date": "2026-02-02",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "SPA",
+      "homeName": "Plzeň",
+      "awayName": "Sparta",
+      "goals": [
+        4,
+        1
+      ],
+      "shots": [
+        33,
+        18
+      ],
+      "penalties": [
+        3,
+        9
+      ],
+      "source": "https://www.hokej.cz/zapas/2922008"
+    },
+    {
+      "id": "2921994",
+      "date": "2026-02-22",
+      "season": 2025,
+      "home": "MBL",
+      "away": "SPA",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Sparta",
+      "goals": [
+        2,
+        3
+      ],
+      "shots": [
+        28,
+        29
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2921994"
+    },
+    {
+      "id": "2922095",
+      "date": "2026-02-24",
+      "season": 2025,
+      "home": "MBL",
+      "away": "OLO",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Olomouc",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        39,
+        20
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922095"
+    },
+    {
+      "id": "2922092",
+      "date": "2026-02-25",
+      "season": 2025,
+      "home": "KLA",
+      "away": "TRI",
+      "homeName": "Kladno",
+      "awayName": "Třinec",
+      "goals": [
+        1,
+        3
+      ],
+      "shots": [
+        21,
+        24
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922092"
+    },
+    {
+      "id": "2922093",
+      "date": "2026-02-25",
+      "season": 2025,
+      "home": "MHK",
+      "away": "VIT",
+      "homeName": "Hr. Králové",
+      "awayName": "Vítkovice",
+      "goals": [
+        4,
+        0
+      ],
+      "shots": [
+        26,
+        25
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922093"
+    },
+    {
+      "id": "2922094",
+      "date": "2026-02-25",
+      "season": 2025,
+      "home": "LIB",
+      "away": "SPA",
+      "homeName": "Liberec",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        35,
+        17
+      ],
+      "penalties": [
+        5,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2922094"
+    },
+    {
+      "id": "2922096",
+      "date": "2026-02-25",
+      "season": 2025,
+      "home": "PCE",
+      "away": "KOM",
+      "homeName": "Pardubice",
+      "awayName": "Kometa",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        33,
+        26
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922096"
+    },
+    {
+      "id": "2922097",
+      "date": "2026-02-25",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "KVA",
+      "homeName": "Plzeň",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        2,
+        0
+      ],
+      "shots": [
+        32,
+        23
+      ],
+      "penalties": [
+        1,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922097"
+    },
+    {
+      "id": "2922098",
+      "date": "2026-02-25",
+      "season": 2025,
+      "home": "CEB",
+      "away": "LIT",
+      "homeName": "Č. Budějovice",
+      "awayName": "Litvínov",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        40,
+        23
+      ],
+      "penalties": [
+        3,
+        7
+      ],
+      "source": "https://www.hokej.cz/zapas/2922098"
+    },
+    {
+      "id": "2922099",
+      "date": "2026-02-27",
+      "season": 2025,
+      "home": "SPA",
+      "away": "PLZ",
+      "homeName": "Sparta",
+      "awayName": "Plzeň",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        24,
+        28
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922099"
+    },
+    {
+      "id": "2922100",
+      "date": "2026-02-27",
+      "season": 2025,
+      "home": "OLO",
+      "away": "MHK",
+      "homeName": "Olomouc",
+      "awayName": "Hr. Králové",
+      "goals": [
+        2,
+        4
+      ],
+      "shots": [
+        33,
+        26
+      ],
+      "penalties": [
+        1,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922100"
+    },
+    {
+      "id": "2922101",
+      "date": "2026-02-27",
+      "season": 2025,
+      "home": "LIT",
+      "away": "PCE",
+      "homeName": "Litvínov",
+      "awayName": "Pardubice",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        26,
+        25
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922101"
+    },
+    {
+      "id": "2922102",
+      "date": "2026-02-27",
+      "season": 2025,
+      "home": "KVA",
+      "away": "KLA",
+      "homeName": "Karlovy Vary",
+      "awayName": "Kladno",
+      "goals": [
+        2,
+        4
+      ],
+      "shots": [
+        27,
+        24
+      ],
+      "penalties": [
+        2,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922102"
+    },
+    {
+      "id": "2922103",
+      "date": "2026-02-27",
+      "season": 2025,
+      "home": "MBL",
+      "away": "LIB",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Liberec",
+      "goals": [
+        4,
+        4
+      ],
+      "shots": [
+        35,
+        27
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922103"
+    },
+    {
+      "id": "2922104",
+      "date": "2026-02-27",
+      "season": 2025,
+      "home": "VIT",
+      "away": "CEB",
+      "homeName": "Vítkovice",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        4,
+        4
+      ],
+      "shots": [
+        29,
+        39
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922104"
+    },
+    {
+      "id": "2922105",
+      "date": "2026-02-27",
+      "season": 2025,
+      "home": "KOM",
+      "away": "TRI",
+      "homeName": "Kometa",
+      "awayName": "Třinec",
+      "goals": [
+        5,
+        1
+      ],
+      "shots": [
+        29,
+        43
+      ],
+      "penalties": [
+        3,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922105"
+    },
+    {
+      "id": "2922106",
+      "date": "2026-03-01",
+      "season": 2025,
+      "home": "CEB",
+      "away": "MBL",
+      "homeName": "Č. Budějovice",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        3,
+        0
+      ],
+      "shots": [
+        26,
+        24
+      ],
+      "penalties": [
+        1,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922106"
+    },
+    {
+      "id": "2922107",
+      "date": "2026-03-01",
+      "season": 2025,
+      "home": "KLA",
+      "away": "KOM",
+      "homeName": "Kladno",
+      "awayName": "Kometa",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        32,
+        18
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922107"
+    },
+    {
+      "id": "2922108",
+      "date": "2026-03-01",
+      "season": 2025,
+      "home": "PCE",
+      "away": "KVA",
+      "homeName": "Pardubice",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        23,
+        23
+      ],
+      "penalties": [
+        2,
+        1
+      ],
+      "source": "https://www.hokej.cz/zapas/2922108"
+    },
+    {
+      "id": "2922109",
+      "date": "2026-03-01",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "LIT",
+      "homeName": "Plzeň",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        43,
+        17
+      ],
+      "penalties": [
+        4,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922109"
+    },
+    {
+      "id": "2922110",
+      "date": "2026-03-01",
+      "season": 2025,
+      "home": "LIB",
+      "away": "OLO",
+      "homeName": "Liberec",
+      "awayName": "Olomouc",
+      "goals": [
+        6,
+        3
+      ],
+      "shots": [
+        31,
+        17
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922110"
+    },
+    {
+      "id": "2922111",
+      "date": "2026-03-01",
+      "season": 2025,
+      "home": "MHK",
+      "away": "SPA",
+      "homeName": "Hr. Králové",
+      "awayName": "Sparta",
+      "goals": [
+        6,
+        3
+      ],
+      "shots": [
+        19,
+        32
+      ],
+      "penalties": [
+        8,
+        8
+      ],
+      "source": "https://www.hokej.cz/zapas/2922111"
+    },
+    {
+      "id": "2922112",
+      "date": "2026-03-01",
+      "season": 2025,
+      "home": "TRI",
+      "away": "VIT",
+      "homeName": "Třinec",
+      "awayName": "Vítkovice",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        40,
+        21
+      ],
+      "penalties": [
+        7,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922112"
+    },
+    {
+      "id": "2922113",
+      "date": "2026-03-04",
+      "season": 2025,
+      "home": "OLO",
+      "away": "CEB",
+      "homeName": "Olomouc",
+      "awayName": "Č. Budějovice",
+      "goals": [
+        3,
+        2
+      ],
+      "shots": [
+        28,
+        26
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "source": "https://www.hokej.cz/zapas/2922113"
+    },
+    {
+      "id": "2922114",
+      "date": "2026-03-04",
+      "season": 2025,
+      "home": "MBL",
+      "away": "PLZ",
+      "homeName": "Ml. Boleslav",
+      "awayName": "Plzeň",
+      "goals": [
+        0,
+        2
+      ],
+      "shots": [
+        26,
+        29
+      ],
+      "penalties": [
+        3,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922114"
+    },
+    {
+      "id": "2922115",
+      "date": "2026-03-04",
+      "season": 2025,
+      "home": "LIB",
+      "away": "MHK",
+      "homeName": "Liberec",
+      "awayName": "Hr. Králové",
+      "goals": [
+        4,
+        0
+      ],
+      "shots": [
+        29,
+        21
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922115"
+    },
+    {
+      "id": "2922116",
+      "date": "2026-03-04",
+      "season": 2025,
+      "home": "VIT",
+      "away": "PCE",
+      "homeName": "Vítkovice",
+      "awayName": "Pardubice",
+      "goals": [
+        4,
+        2
+      ],
+      "shots": [
+        17,
+        41
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922116"
+    },
+    {
+      "id": "2922117",
+      "date": "2026-03-04",
+      "season": 2025,
+      "home": "SPA",
+      "away": "KLA",
+      "homeName": "Sparta",
+      "awayName": "Kladno",
+      "goals": [
+        6,
+        3
+      ],
+      "shots": [
+        35,
+        27
+      ],
+      "penalties": [
+        2,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922117"
+    },
+    {
+      "id": "2922118",
+      "date": "2026-03-04",
+      "season": 2025,
+      "home": "LIT",
+      "away": "TRI",
+      "homeName": "Litvínov",
+      "awayName": "Třinec",
+      "goals": [
+        1,
+        4
+      ],
+      "shots": [
+        27,
+        33
+      ],
+      "penalties": [
+        5,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922118"
+    },
+    {
+      "id": "2922119",
+      "date": "2026-03-04",
+      "season": 2025,
+      "home": "KVA",
+      "away": "KOM",
+      "homeName": "Karlovy Vary",
+      "awayName": "Kometa",
+      "goals": [
+        2,
+        2
+      ],
+      "shots": [
+        29,
+        33
+      ],
+      "penalties": [
+        6,
+        6
+      ],
+      "source": "https://www.hokej.cz/zapas/2922119"
+    },
+    {
+      "id": "2922120",
+      "date": "2026-03-06",
+      "season": 2025,
+      "home": "PCE",
+      "away": "SPA",
+      "homeName": "Pardubice",
+      "awayName": "Sparta",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        26,
+        26
+      ],
+      "penalties": [
+        7,
+        9
+      ],
+      "source": "https://www.hokej.cz/zapas/2922120"
+    },
+    {
+      "id": "2922121",
+      "date": "2026-03-06",
+      "season": 2025,
+      "home": "PLZ",
+      "away": "VIT",
+      "homeName": "Plzeň",
+      "awayName": "Vítkovice",
+      "goals": [
+        5,
+        2
+      ],
+      "shots": [
+        49,
+        11
+      ],
+      "penalties": [
+        4,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922121"
+    },
+    {
+      "id": "2922122",
+      "date": "2026-03-06",
+      "season": 2025,
+      "home": "KLA",
+      "away": "LIT",
+      "homeName": "Kladno",
+      "awayName": "Litvínov",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        31,
+        28
+      ],
+      "penalties": [
+        2,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922122"
+    },
+    {
+      "id": "2922123",
+      "date": "2026-03-06",
+      "season": 2025,
+      "home": "KOM",
+      "away": "OLO",
+      "homeName": "Kometa",
+      "awayName": "Olomouc",
+      "goals": [
+        5,
+        4
+      ],
+      "shots": [
+        29,
+        27
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922123"
+    },
+    {
+      "id": "2922124",
+      "date": "2026-03-06",
+      "season": 2025,
+      "home": "MHK",
+      "away": "MBL",
+      "homeName": "Hr. Králové",
+      "awayName": "Ml. Boleslav",
+      "goals": [
+        3,
+        1
+      ],
+      "shots": [
+        22,
+        32
+      ],
+      "penalties": [
+        2,
+        2
+      ],
+      "source": "https://www.hokej.cz/zapas/2922124"
+    },
+    {
+      "id": "2922125",
+      "date": "2026-03-06",
+      "season": 2025,
+      "home": "CEB",
+      "away": "LIB",
+      "homeName": "Č. Budějovice",
+      "awayName": "Liberec",
+      "goals": [
+        3,
+        3
+      ],
+      "shots": [
+        23,
+        34
+      ],
+      "penalties": [
+        6,
+        5
+      ],
+      "source": "https://www.hokej.cz/zapas/2922125"
+    },
+    {
+      "id": "2922126",
+      "date": "2026-03-06",
+      "season": 2025,
+      "home": "TRI",
+      "away": "KVA",
+      "homeName": "Třinec",
+      "awayName": "Karlovy Vary",
+      "goals": [
+        1,
+        1
+      ],
+      "shots": [
+        33,
+        19
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "source": "https://www.hokej.cz/zapas/2922126"
+    }
+  ],
+  "errors": []
+}
