@@ -1,6 +1,7 @@
 import {CONFIG,MARKETS,fit,predict,value} from './model.js';
 export const DEFAULTS={minProbability:.65,minOdds:1.7,minEdge:.05,maxQuoteMinutes:15};
 export function pragueDate(now=new Date()){return new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Prague',year:'numeric',month:'2-digit',day:'2-digit'}).format(now)}
+export function latestMarketDate(history,market,asOf='9999-12-31'){return history.reduce((latest,game)=>game.date<asOf&&Array.isArray(game[market])&&game[market].length===2&&game[market].every(n=>Number.isInteger(n)&&n>=0)&&game.date>latest?game.date:latest,'')}
 export function kickoff(f){if(!f.time)return null;const [y,m,d]=f.date.split('-').map(Number),[h,min]=f.time.split(':').map(Number);let utc=Date.UTC(y,m-1,d,h,min);const want=utc;for(let i=0;i<2;i++){const p=Object.fromEntries(new Intl.DateTimeFormat('en-GB',{timeZone:'Europe/Prague',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(utc).map(p=>[p.type,p.value]));utc+=want-Date.UTC(+p.year,+p.month-1,+p.day,+p.hour,+p.minute)}return utc}
 export function isClosed(f,now=Date.now()){const start=kickoff(f);return f.completed||f.date<pragueDate(new Date(now))||(start!==null&&start<=now)}
 export function validateFilters(f){if(!Number.isFinite(f.minProbability)||f.minProbability<.5||f.minProbability>.95||!Number.isFinite(f.minOdds)||f.minOdds<=1||f.minOdds>20)throw Error('Použij pravděpodobnost 50–95 % a minimální kurz větší než 1 až 20.');return f}
@@ -20,4 +21,4 @@ export function evaluateOffer(model,f,o,metrics,filters=DEFAULTS,now=Date.now(),
  return {...r,offer:o,ev,conservativeEV,reasons,eligible:reasons.length===0};
 }
 export function rankOffers(offers){return [...offers].sort((a,b)=>Number(b.eligible)-Number(a.eligible)||b.p-a.p||b.conservativeEV-a.conservativeEV)}
-export function roundModels(history,date){const data=history.filter(g=>g.date<date);if(data.length<CONFIG.minGames)throw Error('Pro tento den nemáme dostatečnou historii.');return {models:Object.fromEntries(Object.keys(MARKETS).map(m=>[m,fit(data,m,date)])),lastDataDate:data.reduce((s,g)=>g.date>s?g.date:s,'')}}
+export function roundModels(history,date){const data=history.filter(g=>g.date<date);if(data.length<CONFIG.minGames)throw Error('Pro tento den nemáme dostatečnou historii.');const lastDataDates=Object.fromEntries(Object.keys(MARKETS).map(m=>[m,latestMarketDate(data,m)]));return {models:Object.fromEntries(Object.keys(MARKETS).map(m=>[m,fit(data,m,date)])),lastDataDates,lastDataDate:lastDataDates.shots}}
