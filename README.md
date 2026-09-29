@@ -10,8 +10,8 @@ Statistický model pracuje s historickou silou útoku a obrany, domácím/venkov
 
 Střely a góly jsou za 60 minut; tresty experimentální. Zobrazené kurzy nejsou živé sázkové nabídky. Nejde o prokázaně ziskový systém, automatické sázení ani jisté tipy.
 
-## Stav vývoje k 28. 9. 2026
+## Stav vývoje k 29. 9. 2026
 
-Soukromá verze má serverové načítání PulseScore při otevřeném webu, limity spotřeby, aktualizaci statistik a archivaci předzápasových odhadů. Devět výzkumných variant na historických datech nedoložilo přínos pro nahrazení původního modelu. Vývoj pokračuje sběrem dalších sezon a nezávislým ověřováním. Historické testy nedokládají skutečné sázkové ROI.
+Soukromá verze má serverové načítání PulseScore při otevřeném webu, limity spotřeby a archivaci prvního zvýrazněného nápadu pro každý zápas. Výsledky gólů lze po utkání doplnit ručním tlačítkem; potvrzené střelecké statistiky nadále chybějí. Tato veřejná ukázka nové výsledky ani kurzy nenačítá. Devět výzkumných variant na historických datech nedoložilo přínos pro nahrazení původního modelu. Historické testy nedokládají skutečné sázkové ROI.
 
 Tento repozitář obsahuje pouze vybrané statické soubory. Neobsahuje server, API klíče ani historii soukromého repozitáře. Aktualizace ukázky jsou manuální.
