@@ -1,17 +1,24 @@
-# Extraliga Value Lab — veřejná ukázka
+# Extraliga Value Lab — veřejný přehled
 
-[Otevřít web](https://jakubtrunecek.github.io/extraliga-value-lab-demo/)
+[Otevřít web bez přihlášení](https://jakubtrunecek.github.io/extraliga-value-lab-demo/)
 
-Statická ukázka rozhraní s archivovanými kurzy a historickými daty. Lze prohlížet nabídky, přehled kol, kalkulačku a historický test. Nové kurzy a výsledky se v této veřejné kopii nenačítají. Plná aplikace a její vývojový repozitář jsou soukromé.
+Soukromá aplikace načítá předzápasové kurzy a ověřené výsledky, archivuje první tipy a vyhodnocuje je. Tento web přebírá jejich uložený přehled přibližně každých 30 minut přes GitHub Actions. Plán může mít zpoždění. Čas přenosu je nahoře; stáří kurzů a čas ověření výsledků jsou uvedené zvlášť.
 
-## Jak odhad vzniká
+Návštěva ani klikání nevolají poskytovatele dat a nespotřebují jeho limit. Login není potřeba. Stránka obsahuje pouze veřejná data a prohlížeč komunikuje jen se statickými soubory Pages. Serverové aktualizace a klíč PulseScore zůstávají soukromé.
 
-Statistický model pracuje s historickou silou útoku a obrany, domácím/venkovním průměrem a časovým vážením. Poissonovo nebo negativně binomické rozdělení dává pravděpodobnost over/under. Férový kurz je 1/p; modelová výhoda p × kurz − 1. Samotná aplikace nepoužívá GPT ani OpenAI API.
+## Co sledovat
 
-Střely a góly jsou za 60 minut; tresty experimentální. Zobrazené kurzy nejsou živé sázkové nabídky. Nejde o prokázaně ziskový systém, automatické sázení ani jisté tipy.
+- Načtené kurzy: gólové a 60minutové průzkumné tipy, původní ceny a stáří nabídky.
+- Přehled kola: rozpis a orientační výpočty.
+- Jak si model vede: vyšlo / nevyšlo / čeká / před zápasem, přesný původní tip a ověřené skóre; srovnání modelu s kurzem očištěným o marži.
+- Jak to počítáme: metodika a omezení. Výhoda ani ziskovost nejsou prokázané.
 
-## Stav vývoje k 29. 9. 2026
+Vyloučení jsou experiment bez potvrzených pravidel. Vítěz do rozhodnutí je jen přesně rozpoznaná dvoucestná nabídka, zatím bez samostatného modelu a vyhodnocení. Střely jsou mimo nové tipy. Chybějící výsledek není prohra; bez tipu není totéž co chybějící data.
 
-Soukromá verze má serverové načítání PulseScore při otevřeném webu, limity spotřeby a archivaci prvního zvýrazněného nápadu pro každý zápas. Výsledky gólů lze po utkání doplnit ručním tlačítkem; potvrzené střelecké statistiky nadále chybějí. Tato veřejná ukázka nové výsledky ani kurzy nenačítá. Devět výzkumných variant na historických datech nedoložilo přínos pro nahrazení původního modelu. Historické testy nedokládají skutečné sázkové ROI.
+## Provoz
 
-Tento repozitář obsahuje pouze vybrané statické soubory. Neobsahuje server, API klíče ani historii soukromého repozitáře. Aktualizace ukázky jsou manuální.
+Workflow sync-pages.yml při pushi, ručním spuštění nebo plánu sestaví artifact ze site/ a nového data/live.json. Export pouze čte uložený serverový stav. Nevyvolává načítání poskytovatele. Při chybě validace nic nového nepublikuje a zůstane poslední úspěšný web; starší přenos má upozornění. Nové úpravy UI se exportují ze soukromého zdroje skriptem build-pages.mjs.
+
+Secrets SITE_BYPASS_TOKEN a PAGES_EXPORT_TOKEN jsou pouze v GitHub Actions; druhý povoluje jen export. Žádný klíč nepatří do repozitáře ani do artifactu. Repo neobsahuje server, raw archivy, soukromé poznámky ani historii soukromého vývoje. Model a dělení tréninku/testu se tímto přenosem nemění.
+
+Aktualizováno 9. 10. 2026.

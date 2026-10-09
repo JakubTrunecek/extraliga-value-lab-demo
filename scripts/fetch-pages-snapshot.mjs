@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+const origin='https://extraliga-value-lab-jakub.jakub-trunecheck.chatgpt.site';
+const {SITE_BYPASS_TOKEN,PAGES_EXPORT_TOKEN}=process.env;
+if(!SITE_BYPASS_TOKEN||!PAGES_EXPORT_TOKEN)throw Error('Missing export configuration');
+const response=await fetch(origin+'/api/pages-export',{method:'POST',headers:{'OAI-Sites-Authorization':'Bearer '+SITE_BYPASS_TOKEN,'X-Value-Lab-Export':PAGES_EXPORT_TOKEN},redirect:'error',signal:AbortSignal.timeout(60000)});
+if(!response.ok)throw Error('Export HTTP '+response.status);
+const text=await response.text();if(text.length>8000000||[SITE_BYPASS_TOKEN,PAGES_EXPORT_TOKEN].some(s=>text.includes(s)))throw Error('Unsafe export');
+const data=JSON.parse(text);if(data.schemaVersion!==1||data.readOnly!==true||!data.odds?.view?.events||!data.data?.rounds?.fixtures||!data.evaluation?.frozenIdeas||!Number.isFinite(Date.parse(data.generatedAt)))throw Error('Invalid export');
+const output=process.argv[2]??'_site';await fs.mkdir(output+'/data',{recursive:true});await fs.writeFile(output+'/data/live.json',text);
+console.log(JSON.stringify({generatedAt:data.generatedAt,events:data.odds.view.events.length,settled:data.evaluation.frozenIdeas.settled,pending:data.evaluation.frozenIdeas.pending}));
