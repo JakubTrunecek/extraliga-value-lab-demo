@@ -22,3 +22,5 @@ Workflow sync-pages.yml při pushi, ručním spuštění nebo plánu sestaví ar
 Secrets SITE_BYPASS_TOKEN a PAGES_EXPORT_TOKEN jsou pouze v GitHub Actions; druhý povoluje jen export. Žádný klíč nepatří do repozitáře ani do artifactu. Repo neobsahuje server, raw archivy, soukromé poznámky ani historii soukromého vývoje. Model a dělení tréninku/testu se tímto přenosem nemění.
 
 Aktualizováno 9. 10. 2026.
+
+Aktualizace 10. 10. 2026: aktuální zápasy a čekající výsledky mají vlastní tabulku; vyhodnocená historie je od nejnovějšího data. Stav před zápasem / probíhá podle rozpisu / čeká na ověřený výsledek se přepočítává i bez přenosu dat. Probíhá je časový odhad do tří hodin od startu. Server dává novým výsledkům přednost před historickými stránkami; hodinový plán zachovává 2h/6h odstupy a společný limit.
