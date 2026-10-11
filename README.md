@@ -25,3 +25,7 @@ Aktualizováno 9. 10. 2026.
 
 Aktualizace 10. 10. 2026: aktuální zápasy a čekající výsledky mají vlastní tabulku; vyhodnocená historie je od nejnovějšího data. Stav před zápasem / probíhá podle rozpisu / čeká na ověřený výsledek se přepočítává i bez přenosu dat. Probíhá je časový odhad do tří hodin od startu. Server dává novým výsledkům přednost před historickými stránkami; hodinový plán zachovává 2h/6h odstupy a společný limit.
 Kontrola úplnosti kol: samostatné počty předzápasových záznamů a ověřených výsledků, každý známý zápas včetně absence tipu a rozporů. Historické mezery do 28 dní dohledává stávající omezený plán; předzápasový tip zpětně nevytváříme.
+
+## Oddělené hodnocení (11. 10. 2026)
+
+Průzkumné tipy a referenční volby mají samostatné počty pro góly a výsledek po 60 minutách. Srovnání Brier modelu a kurzu bez marže používá v každé skupině stejná utkání; chybějící podklady zůstávají viditelné. Původní volby se nemění. Soukromý zdroj: 135 úspěšných testů.
