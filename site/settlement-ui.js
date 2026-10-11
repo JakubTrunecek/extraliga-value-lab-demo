@@ -10,7 +10,7 @@ export function settlementLabel(record){
 }
 
 export function frozenPickText(record){
- const pick=record?.pick;if(!pick)return ({'missing-archive':'Chybí předzápasový záznam; tip zpětně nevytváříme','missing-offer':'Chybí podporovaný kurz','missing-model':'Chybí použitelné modelové podklady',filter:'Bez tipu po kontrole filtrů'})[record?.decisionReason]??'Bez uložené volby – starší záznam nerozlišuje důvod';
+ const pick=record?.pick;if(!pick&&record?.decisionReason==='missing-archive'&&matchPhase(record)==='upcoming')return 'Čeká na předzápasové načtení';if(!pick)return ({'missing-archive':'Chybí předzápasový záznam; tip zpětně nevytváříme','missing-offer':'Chybí podporovaný kurz','missing-model':'Chybí použitelné modelové podklady',filter:'Bez tipu po kontrole filtrů'})[record?.decisionReason]??'Bez uložené volby – starší záznam nerozlišuje důvod';
  const side=pick.side==='over'?`více než ${number(pick.line)}`:pick.side==='under'?`méně než ${number(pick.line)}`:pick.side==='HOME'?record.home:pick.side==='AWAY'?record.away:'remíza';
  return `${markets[pick.market]??pick.market} · ${side} · kurz ${(Number.isFinite(pick.odds)?pick.odds.toLocaleString('cs-CZ',{maximumFractionDigits:2}):'—')}`;
 }
@@ -38,3 +38,4 @@ export function timelineRecords(data){
  const existing=new Set(records.map(r=>String(r.fixtureId)));
  return [...records,...[...fixtures.values()].filter(f=>!existing.has(String(f.fixtureId))).map(f=>({...f,status:'missing',pick:null,decisionReason:'missing-archive'}))];
 }
+
