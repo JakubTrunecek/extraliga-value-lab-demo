@@ -33,3 +33,7 @@ Průzkumné tipy a referenční volby mají samostatné počty pro góly a výsl
 ## Diagnostika čekajících výsledků (12. 10. 2026)
 
 Přehled ukazuje důvody odmítnutí poslední uložené odpovědi poskytovatele. Kontrola nevyvolává placený dotaz a veřejný export neobsahuje surová data. Chybějící výsledek není prohra. Soukromý zdroj prošel 138 automatickými testy.
+
+## Doplněný výsledek Pardubice–Třinec
+
+Jednorázová kontrola zápisů Hokej.cz a HC Oceláři Třinec potvrdila 4:4 po 60 minutách dne 11. 10. 2026. Původní volba Třince za 3,26 nevyšla. Záznam a zdroje jsou v soukromém repozitáři v reports/goal-review-2026-10-12.md. Nejde o nový automatický scraper.
