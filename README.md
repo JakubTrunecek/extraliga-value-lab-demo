@@ -37,3 +37,7 @@ Přehled ukazuje důvody odmítnutí poslední uložené odpovědi poskytovatele
 ## Doplněný výsledek Pardubice–Třinec
 
 Jednorázová kontrola zápisů Hokej.cz a HC Oceláři Třinec potvrdila 4:4 po 60 minutách dne 11. 10. 2026. Původní volba Třince za 3,26 nevyšla. Záznam a zdroje jsou v soukromém repozitáři v reports/goal-review-2026-10-12.md. Nejde o nový automatický scraper.
+
+## Úspora výsledkového limitu
+
+Soukromý server zohledňuje také zkontrolované výsledky Hokej.cz a doložená ruční ověření. Vyřešený zápas nevyvolává zbytečné dotazy PulseScore; rozpory a chybějící data nadále dohledává. Ověřeno 143 testy.
