@@ -29,3 +29,7 @@ Kontrola úplnosti kol: samostatné počty předzápasových záznamů a ověře
 ## Oddělené hodnocení (11. 10. 2026)
 
 Průzkumné tipy a referenční volby mají samostatné počty pro góly a výsledek po 60 minutách. Srovnání Brier modelu a kurzu bez marže používá v každé skupině stejná utkání; chybějící podklady zůstávají viditelné. Původní volby se nemění. Soukromý zdroj: 135 úspěšných testů.
+
+## Diagnostika čekajících výsledků (12. 10. 2026)
+
+Přehled ukazuje důvody odmítnutí poslední uložené odpovědi poskytovatele. Kontrola nevyvolává placený dotaz a veřejný export neobsahuje surová data. Chybějící výsledek není prohra. Soukromý zdroj prošel 138 automatickými testy.
