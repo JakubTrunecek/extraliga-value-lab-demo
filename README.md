@@ -43,3 +43,5 @@ Jednorázová kontrola zápisů Hokej.cz a HC Oceláři Třinec potvrdila 4:4 po
 Soukromý server zohledňuje také zkontrolované výsledky Hokej.cz a doložená ruční ověření. Vyřešený zápas nevyvolává zbytečné dotazy PulseScore; rozpory a chybějící data nadále dohledává. Ověřeno 143 testy.
 
 Aktuálnost dat (13. 10. 2026): přehled odděluje stáří cen, kontrolu výsledků a přenos Pages. Upozornění na zpoždění nevolá poskytovatele a neznamená potvrzený výpadek. Ceny po 15 minutách zůstávají archivní; přenos po 90 minutách je označen jako zpožděný.
+
+Jak si model vede nově odděluje neměnný původní tip a poslední použitelnou cenu stejné strany a hranice před začátkem. Ukazuje čas ceny, změnu a po výsledku porovnání Brier. Poslední zachycená cena nemusí být skutečný závěrečný kurz.
