@@ -46,3 +46,4 @@ Aktuálnost dat (13. 10. 2026): přehled odděluje stáří cen, kontrolu výsle
 
 Jak si model vede nově odděluje neměnný původní tip a poslední použitelnou cenu stejné strany a hranice před začátkem. Ukazuje čas ceny, změnu a po výsledku porovnání Brier. Poslední zachycená cena nemusí být skutečný závěrečný kurz.
 Automatické třícestné hodnocení (16. 10. 2026): přehled porovnává původní model s trhem bez marže na stejných ověřených výsledcích za 60 minut. Ukazuje Brier, logaritmickou ztrátu, odhadovanou a skutečnou četnost remíz i počty čekajících a rozporných zápasů. Výpočet probíhá v soukromé aplikaci z uložených archivů; Pages pouze přebírají souhrn. Původní tipy se nemění a nejde o důkaz výhody.
+Podrobnosti třícestného hodnocení: rozbalovací seznam ukazuje zápas, čas prvního úplného odhadu, tehdejší pravděpodobnosti a kurzy, ověřené skóre, chyby modelu a trhu i důvody čekání nebo rozporu. Konfigurace modelu ani soukromé archivy se nezveřejňují.
