@@ -45,3 +45,4 @@ Soukromý server zohledňuje také zkontrolované výsledky Hokej.cz a doložen�
 Aktuálnost dat (13. 10. 2026): přehled odděluje stáří cen, kontrolu výsledků a přenos Pages. Upozornění na zpoždění nevolá poskytovatele a neznamená potvrzený výpadek. Ceny po 15 minutách zůstávají archivní; přenos po 90 minutách je označen jako zpožděný.
 
 Jak si model vede nově odděluje neměnný původní tip a poslední použitelnou cenu stejné strany a hranice před začátkem. Ukazuje čas ceny, změnu a po výsledku porovnání Brier. Poslední zachycená cena nemusí být skutečný závěrečný kurz.
+Automatické třícestné hodnocení (16. 10. 2026): přehled porovnává původní model s trhem bez marže na stejných ověřených výsledcích za 60 minut. Ukazuje Brier, logaritmickou ztrátu, odhadovanou a skutečnou četnost remíz i počty čekajících a rozporných zápasů. Výpočet probíhá v soukromé aplikaci z uložených archivů; Pages pouze přebírají souhrn. Původní tipy se nemění a nejde o důkaz výhody.
