@@ -1,7 +1,7 @@
 import {appFetch as fetch} from './pages-client.js';
 import {CONFIG,MARKETS,fit,predict,assess} from './model.js';
-import './round-ui.js';
-import './odds-ui.js';
+// Legacy manual round screen retained in source, outside navigation.
+import './odds-ui.js?v=73';
 import {settlementClass} from './settlement-ui.js';
 // Retained for possible future use; no UI or WebMCP entry point while disabled.
 const CALCULATOR_ENABLED=false;
@@ -61,7 +61,7 @@ async function init(){try{
  for(const id of ['home','away'])$(id).innerHTML=Object.entries(names).sort((a,b)=>a[1].localeCompare(b[1],'cs')).map(([code,name])=>`<option value="${esc(code)}">${esc(name)}</option>`).join('');
  $('home').value='PCE';$('away').value='SPA';$('market').value='goals';$('line').value=5.5;$('calculate').disabled=false;$('result').setAttribute('aria-live','polite');
  }
- $('data-status').innerHTML=`<strong>${Object.keys(names).length} týmů · góly a výsledek za 60 minut</strong><br>Kurzy Tipsportu přes PulseScore<br><span class="small">Stav načítání v záložce Načtené kurzy</span>`;
+ $('data-status').innerHTML=`<strong>${Object.keys(names).length} týmů · góly a výsledek za 60 minut</strong><br>Kurzy Tipsportu přes PulseScore<br><span class="small">Stav načítání v záložce Zápasy</span>`;
  renderTests();renderMethod();if(CALCULATOR_ENABLED){update();registerTools();}
 }catch(e){$('data-status').textContent='Data nejsou dostupná';$('result').innerHTML=`<h2>Výpočet je pozastaven</h2><p class="verdict warn">${esc(e.message)}. Zkus znovu načíst stránku.</p>`}}
 function registerTools(){if(!CALCULATOR_ENABLED||!document.modelContext?.registerTool)return;const lifecycle=new AbortController();window.addEventListener('pagehide',()=>lifecycle.abort(),{once:true});

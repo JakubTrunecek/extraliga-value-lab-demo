@@ -51,3 +51,7 @@ Podrobnosti třícestného hodnocení: rozbalovací seznam ukazuje zápas, čas 
 ## Kontrola plánovaných přenosů 17. 10. 2026
 Workflow sync-pages.yml je aktivní s plánem 11,41 každé hodiny. Posledních 30 kontrolovaných běhů bylo úspěšných, včetně plánovaných. Dnešní plánované běhy vznikly v 00:27:57, 05:00:07, 09:19:35 a 13:12:34 UTC: mezery 4 h 32 min, 4 h 19 min a 3 h 53 min. Jde o pozorované mezery mezi vznikem běhů, nikoli přesně změřené zpoždění konkrétního plánovaného okamžiku. Historie sama neodhaluje příčinu. GitHub uvádí možnost zpoždění a vynechání plánovaných běhů: https://docs.github.com/en/actions/how-tos/troubleshoot-workflows .
 Banner již neslibuje skutečný půlhodinový přenos. Místní pojistka zůstává závislá na dostupném počítači a Codexu. Pro nezávislé cloudové spouštění je potřeba samostatný omezený přístup k Actions tohoto veřejného repozitáře, uložený jako serverové tajemství. Stávající místní GitHub přihlášení se na hosting nepřenáší. Cloudový spouštěč zatím není implementován; tento audit neopravuje spolehlivost GitHub plánovače. Poskytovatel nebyl dotazován a plány ani původní tipy se nezměnily.
+
+## Přehled zápasů (17. 10. 2026)
+Navigace má tři části: Zápasy, Výsledky modelu a Jak to funguje. Zápasy spojují uložené kurzy s rozpisem (7 dnů zpět a 8 dopředu). Chybějící nabídka není rozhodnutí bez tipu. Orientační odhady jsou v detailech; staré ceny nevytvářejí aktuální tip dne. Veřejná stránka pouze čte přenesená data a nespouští dotazy poskytovateli.
+
