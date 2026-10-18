@@ -21,6 +21,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+      - name: Test independent score audit
+        run: node --test scripts/audit-model-public.test.mjs
       - uses: actions/configure-pages@v5
       - name: Copy UI and fetch validated snapshot
         run: |
@@ -30,6 +32,8 @@ jobs:
         env:
           SITE_BYPASS_TOKEN: ${{ secrets.SITE_BYPASS_TOKEN }}
           PAGES_EXPORT_TOKEN: ${{ secrets.PAGES_EXPORT_TOKEN }}
+      - name: Verify exported model scores before publication
+        run: node scripts/audit-model-public.mjs _site/data/live.json
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site

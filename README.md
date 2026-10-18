@@ -55,3 +55,7 @@ Banner již neslibuje skutečný půlhodinový přenos. Místní pojistka zůst�
 ## Přehled zápasů (17. 10. 2026)
 Navigace má tři části: Zápasy, Výsledky modelu a Jak to funguje. Zápasy spojují uložené kurzy s rozpisem (7 dnů zpět a 8 dopředu). Chybějící nabídka není rozhodnutí bez tipu. Orientační odhady jsou v detailech; staré ceny nevytvářejí aktuální tip dne. Veřejná stránka pouze čte přenesená data a nespouští dotazy poskytovateli.
 
+
+## Kontrola přesnosti před publikací
+Každý přenos před zveřejněním nezávisle ověří třícestné předzápasové odhady, normalizaci kurzů bez marže, Brier, log loss, souhrn remíz a počty. Chyba zastaví nasazení; poslední úspěšný web zůstává dostupný. Čekající a rozporné výsledky nejsou prohry. Kontrola ověřuje aritmetiku exportu, nikoli autenticitu zdrojového skóre nebo tréninkovou historii. Nevolá poskytovatele a nemění interval přenosu. Testy: node --test scripts/audit-model-public.test.mjs.
+
