@@ -59,3 +59,7 @@ Navigace má tři části: Zápasy, Výsledky modelu a Jak to funguje. Zápasy s
 ## Kontrola přesnosti před publikací
 Každý přenos před zveřejněním nezávisle ověří třícestné předzápasové odhady, normalizaci kurzů bez marže, Brier, log loss, souhrn remíz a počty. Chyba zastaví nasazení; poslední úspěšný web zůstává dostupný. Čekající a rozporné výsledky nejsou prohry. Kontrola ověřuje aritmetiku exportu, nikoli autenticitu zdrojového skóre nebo tréninkovou historii. Nevolá poskytovatele a nemění interval přenosu. Testy: node --test scripts/audit-model-public.test.mjs.
 
+
+## Kontrola gólových skóre před zveřejněním — 23. 10. 2026
+
+Veřejné workflow sync-pages.yml nyní před publikací nezávisle přepočítá i všechny gólové hranice. Kontroluje jedinečnost zápasů a hranic, původní cenový pár a normalizaci marže, předzápasový čas, výsledky hranic, Brier jednotlivých řádků i průměry se stejnou vahou zápasů. Nesrovnalost nebo chybějící gólová sekce zastaví nové zveřejnění; poslední úspěšná publikace zůstane. Čekání, rozpor a neplatná evidence bez započtených skóre jsou přípustné; prázdný vzorek musí mít null místo nulové chyby. Jde o kontrolu aritmetiky veřejných dat, ne ověření pravosti výsledků nebo tréninku. Model, původní tipy, plán a načítání poskytovatele se nemění. Přidáno 21 testů; spolu s třícestnou kontrolou prošlo 31 testů.
