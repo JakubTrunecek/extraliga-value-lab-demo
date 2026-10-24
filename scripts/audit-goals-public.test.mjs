@@ -16,3 +16,12 @@ for(const state of ['pending','conflict','invalid'])test(state+' stays unscored'
  assert.equal(auditGoalsPublic(s).settled,0);r.modelBrier=0;assert.throws(()=>auditGoalsPublic(s),/unsettled/);
 });
 test('missing section fails while explicitly empty sample with null losses passes',()=>{assert.throws(()=>auditGoalsPublic({generatedAt:'2026-10-23'}));const s=sample(),e=s.evaluation.goalEvaluation;e.records=[];e.fixtures=e.settled=0;e.modelBrier=e.bookmakerBrier=null;assert.equal(auditGoalsPublic(s).settled,0);e.modelBrier=0;assert.throws(()=>auditGoalsPublic(s));});
+
+test('independent baseline arithmetic and paired comparison are validated',()=>{
+ const s=sample(),e=s.evaluation.goalEvaluation;
+ for(const r of e.records){r.leagueBaseline={status:'available',method:'archived-league-poisson-v1',halfLifeDays:120,games:160,trainingBeforeDate:r.date,expected:5};
+ for(const q of r.rows){let p=Math.exp(-5),sum=p;for(let k=1;k<=Math.floor(q.line);k++){p*=5/k;sum+=p;}q.baselineP=1-sum;q.baselineBrier=(q.baselineP-q.actual)**2;}
+ r.baselineBrier=r.rows.reduce((s,q)=>s+q.baselineBrier,0)/r.rows.length;}
+ e.leagueComparison={fixtures:2,missing:0,modelBrier:.21,bookmakerBrier:.25,baselineBrier:e.records.reduce((s,r)=>s+r.baselineBrier,0)/2};assert.equal(auditGoalsPublic(s).leagueComparison.fixtures,2);
+ for(const change of [e=>e.records[0].rows[0].baselineP=.1,e=>e.leagueComparison.baselineBrier=0,e=>e.leagueComparison.fixtures=1,e=>e.records[0].baselineBrier=0]){const b=structuredClone(s);change(b.evaluation.goalEvaluation);assert.throws(()=>auditGoalsPublic(b));}
+});

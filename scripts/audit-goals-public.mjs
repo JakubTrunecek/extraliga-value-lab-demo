@@ -50,7 +50,32 @@ export function auditGoalsPublic(input){
  for(const [key,value] of Object.entries({fixtures:e.records.length,settled:settled.length,pending:e.records.filter(r=>r.status==='pending').length,conflicts:e.records.filter(r=>r.status==='conflict').length,rejected:e.records.filter(r=>r.status==='invalid').length}))require(e[key]===value,'count '+key);
  if(settled.length){near(e.modelBrier,settled.reduce((s,r)=>s+r.model,0)/settled.length,'equal-fixture model average');near(e.bookmakerBrier,settled.reduce((s,r)=>s+r.market,0)/settled.length,'equal-fixture market average');}
  else require(e.modelBrier===null&&e.bookmakerBrier===null,'empty sample needs null losses');
- return {verified:true,fixtures:e.fixtures,settled:e.settled,lines,pending:e.pending,conflicts:e.conflicts,rejected:e.rejected,modelBrier:e.modelBrier,bookmakerBrier:e.bookmakerBrier,limitation:'Arithmetic and public consistency only; not proof of source authenticity, training cutoff or profitability.'};
+
+ // New baseline section is optional for historical publications. Once present,
+ // every baseline probability, loss and paired aggregate must be consistent.
+ if(e.leagueComparison){
+  const paired=[];
+  for(const r of e.records){
+   const b=r.leagueBaseline;
+   require(b&&['available','unavailable'].includes(b.status),'baseline state');
+   if(b.status==='available')require(b.method==='archived-league-poisson-v1'&&b.halfLifeDays===120&&Number.isInteger(b.games)&&b.games>=140&&b.trainingBeforeDate===r.date&&Number.isFinite(b.expected)&&b.expected>0&&b.expected<=500,'baseline protocol');
+   let loss=0;
+   for(const q of r.rows){
+    if(b.status==='available'){
+     require(q.line<=149.5,'baseline line range');
+     let term=Math.exp(-b.expected),cdf=term;
+     for(let k=1;k<=Math.floor(q.line);k++){term=term*b.expected/k;cdf+=term;}
+     const p=Math.max(0,Math.min(1,1-cdf));near(q.baselineP,p,'baseline Poisson probability');
+     if(r.status==='settled'){const l=(p-q.actual)**2;near(q.baselineBrier,l,'baseline line loss');loss+=l;}else require(q.baselineBrier==null,'unsettled baseline loss');
+    }else require(q.baselineP==null&&q.baselineBrier==null,'unavailable baseline');
+   }
+   if(r.status==='settled'&&b.status==='available'){near(r.baselineBrier,loss/r.rows.length,'baseline fixture loss');paired.push(r);}
+   else require(r.baselineBrier===null,'unscored baseline fixture');
+  }
+  const b=e.leagueComparison;require(b.fixtures===paired.length&&b.missing===settled.length-paired.length,'baseline paired counts');
+  for(const key of ['modelBrier','bookmakerBrier','baselineBrier']){if(paired.length)near(b[key],paired.reduce((s,r)=>s+r[key],0)/paired.length,'baseline paired '+key);else require(b[key]===null,'empty baseline comparison');}
+ }
+ return {verified:true,leagueComparison:e.leagueComparison??null,fixtures:e.fixtures,settled:e.settled,lines,pending:e.pending,conflicts:e.conflicts,rejected:e.rejected,modelBrier:e.modelBrier,bookmakerBrier:e.bookmakerBrier,limitation:'Arithmetic and public consistency only; not proof of source authenticity, training cutoff or profitability.'};
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
  if(!process.argv[2])throw Error('Usage: node audit-goals-public.mjs live.json');

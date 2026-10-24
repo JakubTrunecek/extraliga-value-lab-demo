@@ -63,3 +63,7 @@ Každý přenos před zveřejněním nezávisle ověří třícestné předzápa
 ## Kontrola gólových skóre před zveřejněním — 23. 10. 2026
 
 Veřejné workflow sync-pages.yml nyní před publikací nezávisle přepočítá i všechny gólové hranice. Kontroluje jedinečnost zápasů a hranic, původní cenový pár a normalizaci marže, předzápasový čas, výsledky hranic, Brier jednotlivých řádků i průměry se stejnou vahou zápasů. Nesrovnalost nebo chybějící gólová sekce zastaví nové zveřejnění; poslední úspěšná publikace zůstane. Čekání, rozpor a neplatná evidence bez započtených skóre jsou přípustné; prázdný vzorek musí mít null místo nulové chyby. Jde o kontrolu aritmetiky veřejných dat, ne ověření pravosti výsledků nebo tréninku. Model, původní tipy, plán a načítání poskytovatele se nemění. Přidáno 21 testů; spolu s třícestnou kontrolou prošlo 31 testů.
+
+
+### Ligový kontrolní základ (24. 10. 2026)
+Gólové hranice ukazují také ligový Poissonův základ ze zmrazeného předzápasového tréninku. Jde o dodatečný kontrolní výpočet, ne původní tip. Souhrn tří metod používá stejné zápasy a hranice. Nezávislý publikační audit ověřuje pravděpodobnosti, chyby i společný vzorek; neověřuje soukromé tréninkové zdroje ani ziskovost.
